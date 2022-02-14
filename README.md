@@ -1,3 +1,3 @@
 # Portfolio-Research
-![image](https://user-images.githubusercontent.com/99472273/153871104-55b4efaf-0319-44d1-8c1e-2a0572acc054.png)
+https://media0.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47ttj9yzh16tgd8otlygn5930l5vs548tahunuvlru&rid=giphy.gif&ct=g
 
