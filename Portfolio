@@ -1,16 +1,1 @@
-Functionele requirements
-FR-01 De admin kan een drank kunnen toevoegen.
-	B-01.1 De admin kan een prijs en naam invullen.
-	B-01.2 Er kunnen geen drank worden toegevoegd met dezelfde naam.
-
-FR-02 De admin kan een drank kunnen aanpassen.
-B-02.1 De admin moet de prijs en naam aan kunnen passen.
-	B-02.2 Je kunt de naam niet veranderen naar een naam die er al is.
-
-FR-03 De admin kan een drank kunnen verwijderen.
-	K-03.1 Als een drank niet meer verkocht wordt kan het weggehaald worden.	
-	B-03.1 Een drank kan niet verwijderd worden als die in een favorietenlijst zit.
-
-FR-04 De admin moet alle drank kunnen zien.
-	K-04.1 De admin ziet wat hij in de winkel heeft.
-
+This is my portfolio
