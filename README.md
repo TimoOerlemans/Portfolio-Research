@@ -8,12 +8,12 @@ This is my portfolio on my semester 3 project.
 I used  ,,, and ,,, to make my project.
 
 ## Table of contents
-1. [Why I used ,,, and ,,,?](#Why I used ,,, and ,,,?)
+1. [Why I used ,,, and ,,,?](#Why)
 
 
 
 
-## Why I used ,,, and ,,,?
+## Why
 kjakdjfld
 
 
