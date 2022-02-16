@@ -1,16 +1,16 @@
-Portfolio
+Functionele requirements
+FR-01 De admin kan een drank kunnen toevoegen.
+	B-01.1 De admin kan een prijs en naam invullen.
+	B-01.2 Er kunnen geen drank worden toegevoegd met dezelfde naam.
 
-This is my portfolio on my project I made for semester 3.
+FR-02 De admin kan een drank kunnen aanpassen.
+B-02.1 De admin moet de prijs en naam aan kunnen passen.
+	B-02.2 Je kunt de naam niet veranderen naar een naam die er al is.
 
-I made this project with ,,, and ,,,.
+FR-03 De admin kan een drank kunnen verwijderen.
+	K-03.1 Als een drank niet meer verkocht wordt kan het weggehaald worden.	
+	B-03.1 Een drank kan niet verwijderd worden als die in een favorietenlijst zit.
 
-## 1. Why I used ,,, and ,,,.
-1. [User-Stories](#User-Stories)
-2. [C4-Model](#C4-Model)
+FR-04 De admin moet alle drank kunnen zien.
+	K-04.1 De admin ziet wat hij in de winkel heeft.
 
-
-
-
-
-## C4-Model
-hahah
