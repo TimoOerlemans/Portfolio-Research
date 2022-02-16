@@ -7,10 +7,10 @@ This is my portfolio on my semester 3 project.
 
 I used  ,,, and ,,, to make my project.
 
-[Why I used ,,, and ,,,?](Why I used ,,, and ,,,?)
+[Why I used ,,, and ,,,?](#Why I used ,,, and ,,,?)
 
 
 
 
-Why I used ,,, and ,,,?
+##Why I used ,,, and ,,,?
 kjakdjfld
