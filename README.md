@@ -7,18 +7,17 @@ This is my portfolio on my semester 3 project.
 
 I used  ,,, and ,,, to make my project.
 
-[Why I used ,,, and ,,,?](#Why I used ,,, and ,,,?)
+## Table of contents
+1. [Why I used ,,, and ,,,?](#Why I used ,,, and ,,,?)
 
 
 
 
-##Why I used ,,, and ,,,?
+## Why I used ,,, and ,,,?
 kjakdjfld
 
-# Welcome to my Documentation!
 
 ## Table of contents
 1. [User-Stories](#User-Stories)
-2. [C4-Model](#C4-Model)
 
 ## User-Stories
