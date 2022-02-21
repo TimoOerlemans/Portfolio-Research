@@ -18,6 +18,9 @@ After I have chosen which framework I am going to use. I am going to look up som
 - link tutorials
 
 ### User stories
-
+|||
+|---|---|
+|![image](<img width="406" alt="image" src="https://user-images.githubusercontent.com/99472273/154964905-71d5f39c-b226-4a07-8fe8-82df99152b62.png">)|![image](<img width="404" alt="image" src="https://user-images.githubusercontent.com/99472273/154964983-3141a3d1-61c5-41a8-84c1-62ee1ec5718d.png">)| 
+|![image](<img width="404" alt="image" src="https://user-images.githubusercontent.com/99472273/154965068-f1d96329-927e-41f0-ad53-fa093d3aa85f.png">)|![image]()|
 
 ## Group project
