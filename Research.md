@@ -7,8 +7,15 @@ This is my research I looked for in my IP and GP project.
 
 ## Individual project
 
+### 1.Java frameworks 
+ 
+#### 1.1 Whats Java and Java framework?
+Java is an OO based language just like .NET. 
+Java frameworks are bodies of prewritten code used by developers to create apps using the Java programming language. Java frameworks are only for the Java programming language.
 
+#### 1.2 Which Java frameworks are there?
 
+### 2. Javascript frameworks
 
 
 ## Group project
