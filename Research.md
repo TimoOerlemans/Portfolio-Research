@@ -2,12 +2,13 @@
 
 This is my research I looked for in my IP and GP project.
 
-1. [Individual project](#Individual-project)
-2. [Group project](#Group-project)
+[Individual project](#Individual-project)
+1. [Java framework](#Java-framework)
+[Group project](#Group-project)
 
 ## Individual project
 
-### 1.Java frameworks 
+### 1.Java framework 
  
 #### 1.1 What is Java and Java framework?
 Java is an OO based language just like .NET. 
