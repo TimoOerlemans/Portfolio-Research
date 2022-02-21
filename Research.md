@@ -22,7 +22,10 @@ There are many Java frameworks but I am only going to compare a few: Spring, Pay
 In the image above you can see I have compared these frameworks. All of them have there own pros and cons. That is why I choose Spring for my back-end framework.
 
 ### 2. Javascript frameworks
+I also have to choose in what type of framework I am going to work for the front-end. 
+<img width="501" alt="image" src="https://user-images.githubusercontent.com/99472273/154957400-f7cc7cf5-c0ca-450a-a3b3-ac61ebf96f7f.png">
 
+In the image above you see three framework that I have compared. Some sites said it is a personal choice. That is why I choose react as my front-end framework.
 
 ## Group project
 
