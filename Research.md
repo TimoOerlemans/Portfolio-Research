@@ -9,7 +9,7 @@ This is my research I looked for in my IP and GP project.
 
 ## Individual project
 
-### 1. Java framework 
+## 1. Java framework 
  
 #### 1.1 What is Java and Java framework?
 Java is an OO based language just like .NET. 
