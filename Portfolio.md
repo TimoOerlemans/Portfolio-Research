@@ -2,6 +2,8 @@
 
 Here I go through all the learning outcomes that I need to prove so I go to the next semester.
 
+-[Individual project](#Outcome-1-You-design-and-build-user-friendly-full-stack-web-applications-(IP-&-GP))
+
 ## Learning outcomes
 
 
