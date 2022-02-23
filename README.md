@@ -21,12 +21,12 @@ After I have chosen which framework I am going to use. I am going to look up som
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/99472273/154964905-71d5f39c-b226-4a07-8fe8-82df99152b62.png" width=500 height=100></td> 
-    <td><img src="https://user-images.githubusercontent.com/99472273/154964983-3141a3d1-61c5-41a8-84c1-62ee1ec5718d.png" width=500 height=100></td> 
+    <td><img src="https://user-images.githubusercontent.com/99472273/154964905-71d5f39c-b226-4a07-8fe8-82df99152b62.png" width=500 height=70></td> 
+    <td><img src="https://user-images.githubusercontent.com/99472273/154964983-3141a3d1-61c5-41a8-84c1-62ee1ec5718d.png" width=500 height=70></td> 
   </tr>
  <tr>
-    <td><img src="https://user-images.githubusercontent.com/99472273/154965068-f1d96329-927e-41f0-ad53-fa093d3aa85f.png" width=500 height=100></td> 
-    <td><img src="https://user-images.githubusercontent.com/99472273/154965388-76371800-f8e5-4f37-ad26-6f83fe14a125.png" width=500 height=100></td> 
+    <td><img src="https://user-images.githubusercontent.com/99472273/154965068-f1d96329-927e-41f0-ad53-fa093d3aa85f.png" width=500 height=70></td> 
+    <td><img src="https://user-images.githubusercontent.com/99472273/154965388-76371800-f8e5-4f37-ad26-6f83fe14a125.png" width=500 height=70></td> 
   </tr>
  </table>
 
