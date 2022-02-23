@@ -34,7 +34,11 @@ After I have chosen which framework I am going to use. I am going to look up som
 
 ### C4 Model
 
+The four C's stand for: context, containers, components and code. These models are describes architecture at different levels. The higher you go in the C4 model the more detail you can see. 
+
 #### C1
+
+In the image bew
 
 #### C2
 
@@ -42,5 +46,7 @@ After I have chosen which framework I am going to use. I am going to look up som
 
 #### C4
 
+
+[C4 model](https://www.infoq.com/articles/C4-architecture-model/)
 
 ## Group project
