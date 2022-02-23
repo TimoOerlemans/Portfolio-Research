@@ -4,7 +4,7 @@ Here I go through all the learning outcomes that I need to prove so I go to the 
 
 -[Outcome 1](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
 
--[Outcome 2](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
+-[Outcome 2](#outcome-2-you-use-software-tooling-and-methodology-that-continuously-monitors-and-improve-the-software-quality-during-software-development-ip)
 
 -[Outcome 3](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
 
@@ -14,7 +14,7 @@ Here I go through all the learning outcomes that I need to prove so I go to the 
 
 -[Outcome 6](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
 
--[Outcome 7](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp
+-[Outcome 7](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
 
 -[Outcome 8](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
 
