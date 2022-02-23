@@ -2,7 +2,14 @@
 
 Here I go through all the learning outcomes that I need to prove so I go to the next semester.
 
--[Individual project](#Outcome-1-You-design-and-build-user-friendly-full-stack-web-applications-(IP-&-GP))
+-[Outcome 1](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
+-[Outcome 2](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
+-[Outcome 3](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
+-[Outcome 4](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
+-[Outcome 5](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
+-[Outcome 6](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
+-[Outcome 7](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
+-[Outcome 8](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
 
 ## Learning outcomes
 
