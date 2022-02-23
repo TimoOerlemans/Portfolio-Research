@@ -10,7 +10,7 @@ Here I go through all the learning outcomes that I need to prove so I go to the 
 - [Outcome 5](#outcome-5-you-recognize-and-take-into-account-cultural-differences-when-working-with-multi-site-teams-and-are-aware-of-ethical-aspects-in-software-development-gp)
 - [Outcome 6](#outcome-6-you-translate-non-functional-requirements-to-extend-existing-architectural-designs-and-can-validate-them-using-multiple-types-of-test-techniques-gp)
 - [Outcome 7](#outcome-7-you-can-explain-simple-business-processes-and-relate-them-to-the-development-of-your-software-project-gp)
-- [Outcome 8](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
+- [Outcome 8](#outcome-8-you-act-in-a-professional-manner-during-software-development-and-learning-ip--gp)
 
 ## Learning outcomes
 
