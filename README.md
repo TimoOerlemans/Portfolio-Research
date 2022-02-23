@@ -32,4 +32,15 @@ After I have chosen which framework I am going to use. I am going to look up som
   </tr>
  </table>
 
+### C4 Model
+
+#### C1
+
+#### C2
+
+#### C3
+
+#### C4
+
+
 ## Group project
