@@ -45,7 +45,7 @@ The second model is the container diagram. This one describes the software syste
 The third model is the component diagram. This diagram shows code from one single container. 
 
 #### C4
-The final model is the code with class diagram. This shows the code of how one single component works. You can make a classdiagram or an EER 
+The final model is the code with class diagram. This shows the code of how one single component works. You can make a classdiagram or an EER. 
 
 [C4 model](https://www.infoq.com/articles/C4-architecture-model/)
 
