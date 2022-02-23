@@ -33,19 +33,19 @@ After I have chosen which framework I am going to use. I am going to look up som
  </table>
 
 ### C4 Model
-
 The four C's stand for: context, containers, components and code. These models are describes architecture at different levels. The higher you go in the C4 model the more detail you can see. 
 
 #### C1
-
-In the image bew
+In the image below you can see the first level of the C4 model. This is my context model. In this model there are no details just general things about my application. You can see who the user is and directly connected systems.
 
 #### C2
+The second model is the container diagram. This one describes the software system and shows all the API's, databases, applications and microservices that the system uses. It also shows how my containers communicate with eachother.
 
 #### C3
+The third model is the component diagram. This diagram shows code from one single container. 
 
 #### C4
-
+The final model is the code with class diagram. This shows the code of how one single component works. You can make a classdiagram or an EER 
 
 [C4 model](https://www.infoq.com/articles/C4-architecture-model/)
 
