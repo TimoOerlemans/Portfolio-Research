@@ -38,6 +38,9 @@ The four C's stand for: context, containers, components and code. These models a
 #### C1
 In the image below you can see the first level of the C4 model. This is my context model. In this model there are no details just general things about my application. You can see who the user is and directly connected systems.
 
+<img width="257" alt="image" src="https://user-images.githubusercontent.com/99472273/155689871-96388310-6d79-4a95-8208-4534e138c497.png">
+
+
 #### C2
 The second model is the container diagram. This one describes the software system and shows all the API's, databases, applications and microservices that the system uses. It also shows how my containers communicate with eachother.
 
