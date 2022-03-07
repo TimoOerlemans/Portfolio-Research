@@ -38,7 +38,7 @@ The four C's stand for: context, containers, components and code. These models a
 #### C1
 In the image below you can see the first level of the C4 model. This is my context model. In this model there are no details just general things about my application. You can see who the user is and directly connected systems.
 
-<img width="257" alt="image" src="https://user-images.githubusercontent.com/99472273/155689871-96388310-6d79-4a95-8208-4534e138c497.png">
+<img width="367" alt="image" src="https://user-images.githubusercontent.com/99472273/157012142-9610dc4c-7afc-4a60-b062-74b323b03a82.png">
 
 
 #### C2
