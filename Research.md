@@ -30,7 +30,7 @@ Javascript is a programming language to make front-end. So what the user sees on
 I also have to choose in what type of framework I am going to work for the front-end. 
 <img width="512" alt="image" src="https://user-images.githubusercontent.com/99472273/157016579-d72df7be-de27-4197-a316-99646c9794f4.png">
 
-In the image above you see three frameworks that I have compared. Some sites said it is a personal choice. That is why I choose react as my front-end framework.
+In the image above you see three frameworks that I have compared in the image of Java frameworks you can see Spring works good with React. Some sites said it is a personal choice. That is why I choose react as my front-end framework.
 
 ## Group project
 
