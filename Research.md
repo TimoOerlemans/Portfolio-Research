@@ -17,7 +17,7 @@ Java frameworks are bodies of prewritten code used by developers to create apps 
 
 #### 1.2 Which Java frameworks are there?
 There are many Java frameworks but I am only going to compare a few: Spring, Payara and Jetty.
-<img width="430" alt="image" src="https://user-images.githubusercontent.com/99472273/154942122-0a3851ce-e146-4eef-bfe0-10e2e3bea829.png">
+<img width="521" alt="image" src="https://user-images.githubusercontent.com/99472273/157016495-e2e073b9-9cd0-420d-b9c0-41c56cddec1e.png">
 
 In the image above you can see I have compared these frameworks. All of them have there own pros and cons. That is why I choose Spring for my back-end framework.
 
@@ -28,7 +28,7 @@ Javascript is a programming language to make front-end. So what the user sees on
 
 #### 2.2 Which Java frameworks are there?
 I also have to choose in what type of framework I am going to work for the front-end. 
-<img width="501" alt="image" src="https://user-images.githubusercontent.com/99472273/154957400-f7cc7cf5-c0ca-450a-a3b3-ac61ebf96f7f.png">
+<img width="512" alt="image" src="https://user-images.githubusercontent.com/99472273/157016579-d72df7be-de27-4197-a316-99646c9794f4.png">
 
 In the image above you see three frameworks that I have compared. Some sites said it is a personal choice. That is why I choose react as my front-end framework.
 
