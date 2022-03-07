@@ -44,6 +44,8 @@ In the image below you can see the first level of the C4 model. This is my conte
 #### C2
 The second model is the container diagram. This one describes the software system and shows all the API's, databases, applications and microservices that the system uses. It also shows how my containers communicate with eachother.
 
+<img width="460" alt="image" src="https://user-images.githubusercontent.com/99472273/157030445-f9f1bce7-c6bf-4799-aba6-7be7efaafd86.png">
+
 #### C3
 The third model is the component diagram. This diagram shows code from one single container. 
 
