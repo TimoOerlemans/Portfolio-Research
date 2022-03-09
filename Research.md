@@ -20,6 +20,8 @@ There are many Java frameworks but I am only going to compare a few: Spring, Pay
 In the image above you can see I have compared these frameworks. All of them have there own pros and cons. That is why I choose Spring for my back-end framework.
 
 [Spring](https://spring.io/)
+[Payara](https://www.payara.fish/)
+[eclipse-Jetty](https://www.eclipse.org/jetty/)
 
 ### 2. Javascript frameworks
 
