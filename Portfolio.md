@@ -53,8 +53,10 @@ I think I am standing for this LO on oriënting because in my readme file you ca
 ## Outcome 6. You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques. (GP)
 
 ### 1.
+In my group project I participated in making user stories but we all did just one or two. In my individual project I have made multiple user stories. From those user stories I made the C4 model that you can find in the readme file.
 
-
+(User stories)[]
+[C4 model]()
 
 ## Outcome 7. You can explain simple business processes and relate them to the development of your software project. (GP)
 
