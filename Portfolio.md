@@ -52,9 +52,9 @@ undefined
 
 In my group project I participated in making user stories but we all did just one or two. In my individual project I have made multiple user stories. From those user stories I made the C4 model that you can find in the readme file.
 
-[User stories]()
+[User stories](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/README.md#user-stories)
 
-[C4 model]()
+[C4 model](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/README.md#c4-model)
 
 ## Outcome 7. You can explain simple business processes and relate them to the development of your software project. (GP)
 
