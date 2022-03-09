@@ -28,44 +28,42 @@ I think I am standing for this LO on oriënting because in my readme file you ca
 
 ## Outcome 2. You use software tooling and methodology that continuously monitors and improve the software quality during software development. (IP)
 
-### 1.
+undefined
 
 
 
 ## Outcome 3. You can implement the software process for your project according to a given agile software development method. (GP)
-
-### 1. 
+undefined
 
 
 
 ## Outcome 4. You implement a (semi)automated software release process that matches the needs of the project context. (IP)
 
-### 1.
-
+undefined
 
 
 ## Outcome 5. You recognize and take into account cultural differences when working with multi-site teams and are aware of ethical aspects in software development. (GP)
 
-### 1. 
+undefined
 
 
 
 ## Outcome 6. You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques. (GP)
 
-### 1.
 In my group project I participated in making user stories but we all did just one or two. In my individual project I have made multiple user stories. From those user stories I made the C4 model that you can find in the readme file.
 
-(User stories)[]
+[User stories]()
+
 [C4 model]()
 
 ## Outcome 7. You can explain simple business processes and relate them to the development of your software project. (GP)
 
-### 1. 
+undefined
 
 
 
 ## Outcome 8. You act in a professional manner during software development and learning. (IP & GP)
 
-### 1.
+undefined
 
 
