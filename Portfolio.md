@@ -24,7 +24,7 @@ I think I am standing for this LO on oriënting because in my readme file you ca
 
 [more](https://spring.io/guides)
 
-
+[React starting](https://reactjs.org/docs/getting-started.html#learn-react)
 
 ## Outcome 2. You use software tooling and methodology that continuously monitors and improve the software quality during software development. (IP)
 
