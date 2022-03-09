@@ -35,6 +35,7 @@ undefined
 ## Outcome 3. You can implement the software process for your project according to a given agile software development method. (GP)
 undefined
 
+In the groupsproject we use an agile way of working based on SCRUM. We do daily stand-ups, stand-downs and Peer review so everbody can say something about everyone. We also work in sprints of three weeks were we devide tasks to everyone in each sprint. 
 
 
 ## Outcome 4. You implement a (semi)automated software release process that matches the needs of the project context. (IP)
