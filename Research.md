@@ -16,6 +16,7 @@ Java frameworks are bodies of prewritten code used by developers to create apps 
 There are many Java frameworks but I am only going to compare a few: Spring, Payara and Jetty.
 <img width="521" alt="image" src="https://user-images.githubusercontent.com/99472273/157016495-e2e073b9-9cd0-420d-b9c0-41c56cddec1e.png">
 
+(-meer uitleggen)
 In the image above you can see I have compared these frameworks. All of them have there own pros and cons. That is why I choose Spring for my back-end framework.
 
 ### 2. Javascript frameworks
