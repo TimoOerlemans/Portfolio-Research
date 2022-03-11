@@ -61,4 +61,13 @@ After the C4 model I made an activity diagram.
 
 [Activity diagram](https://www.smartdraw.com/activity-diagram/)
 
+## Wireframes
+
+I made some UI-designs so that I know where to place the components
+
+![image](https://user-images.githubusercontent.com/99472273/157851713-ef175c30-ff37-4cc4-a76a-47c610ceabe0.png)
+
+![image](https://user-images.githubusercontent.com/99472273/157851688-5e4bb303-1f0f-4e47-aafb-431e93673914.png)
+
+
 ## Group project
