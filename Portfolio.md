@@ -20,6 +20,8 @@ Here I go through all the learning outcomes that I need to prove so I go to the 
 
 I think I am standing for this LO on oriënting because in my readme file you can see my research on frameworks. After these descicions I want to learn how to work with these frameworks so I have found a few tutorials that I am going to follow. 
 
+#### design
+
 For my individual project I made a few Wireframes so I have an idea of how my app looks.
 
 <img width="619" alt="image" src="https://user-images.githubusercontent.com/99472273/157846511-3fdd8502-d0fb-4ad9-b18a-b72c0dc9a345.png">
