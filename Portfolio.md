@@ -33,7 +33,7 @@ For my individual project I made a few Wireframes so I have an idea of how my ap
 
 [React starting](https://reactjs.org/docs/getting-started.html#learn-react)
 
-[More frameworks](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/README.md#wireframes)
+[More wireframes](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/README.md#wireframes)
 
 ## Outcome 2. You use software tooling and methodology that continuously monitors and improve the software quality during software development. (IP)
 
