@@ -65,10 +65,7 @@ After the C4 model I made an activity diagram.
 
 I made some UI-designs so that I know where to place the components
 
-<table>
-  <tr>
-    <td><img width="269" alt="image" src="https://user-images.githubusercontent.com/99472273/157851713-ef175c30-ff37-4cc4-a76a-47c610ceabe0.png" width=700 height=250>
-    <td><img width="269" alt="image" src="https://user-images.githubusercontent.com/99472273/157851688-5e4bb303-1f0f-4e47-aafb-431e93673914.png" width=700 height=250>
-  <tr>
-<table>
+<img width="269" alt="image" src="https://user-images.githubusercontent.com/99472273/157851713-ef175c30-ff37-4cc4-a76a-47c610ceabe0.png" height=250>
+<img width="269" alt="image" src="https://user-images.githubusercontent.com/99472273/157851688-5e4bb303-1f0f-4e47-aafb-431e93673914.png" height=250>
+
 ## Group project
