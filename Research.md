@@ -40,7 +40,9 @@ In the image above you see three frameworks that I have compared in the image of
 ## 3. Business processes
 
 #### 3.1 What is a business process?
-
 According to my source: "A business process is an activity or set of activities that can accomplish a specific organizational goal." There are groups of people and each group have there own speciality. And we start with one group who are going to do there thing but when they are done the goal is not yet been achieved. So to achieve the goal the first group gives there end product to the next ect. until the last group has done there job. 
+
+#### 3.2 How a business proces relates to software applications? 
+
 
 [Activity diagram](https://www.smartdraw.com/activity-diagram/)
