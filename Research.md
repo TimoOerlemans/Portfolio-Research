@@ -43,9 +43,14 @@ Here I am going to describe LO7:You can explain simple business processes and re
 #### 3.1 What is a business process?
 According to my source: "A business process is an activity or set of activities that can accomplish a specific organizational goal." There are groups of people and each group have there own speciality. And we start with one group who are going to do there thing but when they are done the goal is not yet been achieved. So to achieve the goal the first group gives there end product to the next ect. until the last group has done there job. 
 
-#### 3.2 How a business proces relates to software applications? 
+#### 3.2 How a business process relates to software applications? 
+The business process is the process(steps) made to achieve the goal for the user. The relation between the two is that software should make sure that less steps have to be made to achieve that goal. For example: in a restaurant in there are robots who pick up dirty dishes from the tables and brings plates to the tables. This replaces the work from a waiter. There are many other examples where software ensures that the business process gets achieved faster.
+
+#### 3.3 Process related to my project
 
 
+
+#### 3.4 Sources
 [Outcome 7](https://fhict.instructure.com/courses/12096/outcomes)
 
 14-03-2022 [Business process](https://www.techtarget.com/searchcio/definition/business-process)
