@@ -53,10 +53,6 @@ The third model is the component diagram. This diagram shows code from one singl
 
 [C4 model](https://www.infoq.com/articles/C4-architecture-model/)
 
-## Activity diagram
-After the C4 model I made an activity diagram.
-
-[Activity diagram](https://www.smartdraw.com/activity-diagram/)
 
 ## Wireframes
 
