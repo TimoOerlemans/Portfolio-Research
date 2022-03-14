@@ -38,11 +38,16 @@ I also have to choose in what type of framework I am going to work for the front
 In the image above you see three frameworks that I have compared in the image of Java frameworks you can see Spring works good with React. Some sites said it is a personal choice. That is why I choose react as my front-end framework.
 
 ## 3. Business processes
+Here I am going to describe LO7:You can explain simple business processes and relate them to the development of your software project. To show it completely I am going to answer a few questions.
 
 #### 3.1 What is a business process?
 According to my source: "A business process is an activity or set of activities that can accomplish a specific organizational goal." There are groups of people and each group have there own speciality. And we start with one group who are going to do there thing but when they are done the goal is not yet been achieved. So to achieve the goal the first group gives there end product to the next ect. until the last group has done there job. 
 
 #### 3.2 How a business proces relates to software applications? 
 
+
+[Outcome 7](https://fhict.instructure.com/courses/12096/outcomes)
+
+14-03-2022 [Business process](https://www.techtarget.com/searchcio/definition/business-process)
 
 [Activity diagram](https://www.smartdraw.com/activity-diagram/)
