@@ -4,7 +4,7 @@ This is my research I looked for in my IP and GP project.
 
 1. [Java framework](#1-Java-framework)
 2. [Javascript framework](#2-Javascript-frameworks)
-3. [Activity diagram](#3-Activity-diagram)
+3. [LO7 Business processes](#3-Business-processes)
 
 
 ### 1. Java framework 
@@ -37,7 +37,7 @@ I also have to choose in what type of framework I am going to work for the front
 
 In the image above you see three frameworks that I have compared in the image of Java frameworks you can see Spring works good with React. Some sites said it is a personal choice. That is why I choose react as my front-end framework.
 
-### 3. Activity diagram
-After the C4 model I made an activity diagram.
+## 3. Business processes
+
 
 [Activity diagram](https://www.smartdraw.com/activity-diagram/)
