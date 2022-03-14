@@ -51,9 +51,6 @@ The third model is the component diagram. This diagram shows code from one singl
 
 <img width="269" alt="image" src="https://user-images.githubusercontent.com/99472273/157033089-5f218dc9-d4be-4b5a-9763-35f48026e972.png">
 
-#### C4
-The final model is the code with class diagram. This shows the code of how one single component works. You can make a classdiagram or an EER. 
-
 [C4 model](https://www.infoq.com/articles/C4-architecture-model/)
 
 ## Activity diagram
