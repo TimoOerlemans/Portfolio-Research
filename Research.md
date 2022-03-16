@@ -5,10 +5,10 @@ This is my research I looked for in my IP and GP project.
 1. [Java framework](#1-Java-framework)
 2. [Javascript framework](#2-Javascript-frameworks)
 3. [LO7 Business processes](#3-Business-processes)
-   -3.1[What is a business process?](#3.1-What-is-a-business-process?)
-   -3.2[How a business process relates to software applications?]()
-   -3.3[Process related to my project]()
-   -3.4[Sources]()
+  - [3.1 What is a business process?](#31-what-is-a-business-process)
+  - [3.2 How a business process relates to software applications?](#32-How-a-business-process-relates-to-software-applications)
+  - [3.3 Process related to my project](#33-Process-related-to-my-project)
+  - [3.4 Sources](34-Sources)
 
 
 ### 1. Java framework 
