@@ -1,17 +1,22 @@
 ## Research
 
 This is my research I looked for in my IP and GP project.
-
-1. [Java framework](#1-Java-framework)
-2. [Javascript framework](#2-Javascript-frameworks)
-3. [LO7 Business processes](#3-Business-processes)
+ 
+- [1. Java framework](#1-Java-framework)
+  -[1.1 What is Java and Java framework?](#11-What-is-Java-and-Java-framework) 
+  -[1.2 Which Java frameworks are there?](#12-Which-Java-Frameworks-are-there)
+  -[1.3 Sources](#13-Sources)  
+- [2. Javascript framework](#2-Javascript-frameworks)
+  -[2.1 What is Javascript?](#21-What-is-Javascript)  
+  -[2.2 Which Java frameworks are there?](#22-Which-Java-frameworks-are-there)  
+- [3. LO7 Business processes](#3-Business-processes)
   - [3.1 What is a business process?](#31-what-is-a-business-process)
   - [3.2 How a business process relates to software applications?](#32-How-a-business-process-relates-to-software-applications)
   - [3.3 Process related to my project](#33-Process-related-to-my-project)
   - [3.4 Sources](34-Sources)
 
 
-### 1. Java framework 
+## 1. Java framework 
  
 #### 1.1 What is Java and Java framework?
 Java is an OO based language just like .NET. 
@@ -24,13 +29,15 @@ There are many Java frameworks but I am only going to compare a few: Spring, Pay
 (-meer uitleggen)
 In the image above you can see I have compared these frameworks. All of them have there own pros and cons. That is why I choose Spring for my back-end framework.
 
+#### 1.3 Sources
+
 [Spring](https://spring.io/)
 
 [Payara](https://www.payara.fish/)
 
 [eclipse-Jetty](https://www.eclipse.org/jetty/)
 
-### 2. Javascript frameworks
+## 2. Javascript frameworks
 
 #### 2.1 What is Javascript?
 Javascript is a programming language to make front-end. So what the user sees on his screen. 
