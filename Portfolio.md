@@ -68,9 +68,9 @@ In my group project I participated in making user stories but we all did just on
 
 ## Outcome 7. You can explain simple business processes and relate them to the development of your software project. (GP)
 
-undefined
+For this LO I did some research about what a business process is. I answered some questions about this topic and for the visuals I made two activity diagrams(first one before the software applied and the second with) with draw io.
 
-
+[Business research](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/README.md#c4-model)
 
 ## Outcome 8. You act in a professional manner during software development and learning. (IP & GP)
 
