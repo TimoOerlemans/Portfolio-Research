@@ -51,6 +51,7 @@ The business process is the process(steps) made to achieve the goal for the user
 For my own project I am going to make a website for a pizza restuarant. This sofware allows the customer to order product before he gets there and so he doesn't have to wait or he doesn't even have to pick his own order. Because of my software the costumer doesn't have to wait long for his food or has to leave his own house. 
 
 In the image below you can see the flow of how the process was before my software:
+
 <img width="299" alt="image" src="https://user-images.githubusercontent.com/99472273/158561676-59bf2bd8-cf22-49a2-9d7a-f68a6e6fab56.png">
 
 Underneath this you can see the image of when my software is used:
