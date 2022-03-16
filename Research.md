@@ -56,6 +56,9 @@ In the image below you can see the flow of how the process was before my softwar
 
 Underneath this you can see the image of when my software is used:
 
+<img width="299" alt="image" src="https://user-images.githubusercontent.com/99472273/158566548-3f2df730-33fe-44c9-bbec-023c717cd98d.png">
+
+As you can see the cashier is not longer necessary in the second flow. The costumer can have the same amount of steps if he choses to pick up his own order. The delivery can be a new roll if the costuner choses that he wants his order deliverd.
 
 #### 3.4 Sources
 [Outcome 7](https://fhict.instructure.com/courses/12096/outcomes)
