@@ -3,12 +3,12 @@
 This is my research I looked for in my IP and GP project.
  
 - [1. Java framework](#1-Java-framework)
-  -[1.1 What is Java and Java framework?](#11-What-is-Java-and-Java-framework) 
-  -[1.2 Which Java frameworks are there?](#12-Which-Java-Frameworks-are-there)
-  -[1.3 Sources](#13-Sources)  
+  - [1.1 What is Java and Java framework?](#11-What-is-Java-and-Java-framework) 
+  - [1.2 Which Java frameworks are there?](#12-Which-Java-Frameworks-are-there)
+  - [1.3 Sources](#13-Sources)  
 - [2. Javascript framework](#2-Javascript-frameworks)
-  -[2.1 What is Javascript?](#21-What-is-Javascript)  
-  -[2.2 Which Java frameworks are there?](#22-Which-Java-frameworks-are-there)  
+  - [2.1 What is Javascript?](#21-What-is-Javascript)  
+  - [2.2 Which Java frameworks are there?](#22-Which-Java-frameworks-are-there)  
 - [3. LO7 Business processes](#3-Business-processes)
   - [3.1 What is a business process?](#31-what-is-a-business-process)
   - [3.2 How a business process relates to software applications?](#32-How-a-business-process-relates-to-software-applications)
