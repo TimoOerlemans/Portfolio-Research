@@ -84,8 +84,11 @@ For this LO I did some research about what a business process is. I answered som
 
 ## Outcome 8. You act in a professional manner during software development and learning. (IP & GP)
 
-For individual I am going try to use pomodoro and also I am going to make a projectboard where all my features stand that I need to make. 
+For this lo I am going try to use pomodoro and also I am going to make a projectboard where all my features stand that I need to make. And for my professional manner I need to show that I am able to communicate good with my team and stakeholders.
 
-undefined
+I think I am on orienting because in the groupsproject we already use a projectboard and have done a Peerpulse where we gave feedback to eachother what could be done better. But this Lo can go to beginning when further in the projects. 
+
+<img width="545" alt="image" src="https://user-images.githubusercontent.com/99472273/159669126-d0111f9f-40ab-4ac2-be85-cb7052e68485.png">
+
 
 
