@@ -14,8 +14,6 @@ Here I go through all the learning outcomes that I need to prove so I go to the 
 
 ## Learning outcomes
 
-
-
 ## Outcome 1. You design and build user-friendly, full-stack web applications. (IP & GP)
 
 I think I am standing for this LO on oriënting because in my readme file you can see my research on frameworks. After these descicions I want to learn how to work with these frameworks so I have found a few tutorials that I am going to follow. 
@@ -26,7 +24,7 @@ For my individual project I made a few Wireframes so I have an idea of how my ap
 
 <img width="619" alt="image" src="https://user-images.githubusercontent.com/99472273/157846511-3fdd8502-d0fb-4ad9-b18a-b72c0dc9a345.png">
 
-For this lo I think I have to make some design for my application, do research for what kind of framework to use, make a final product and then test it on people who have not seen the product.
+For this lo I think I have to make some design for my application, do research for what kind of framework to use, make a final product and then test it on people who have not seen the product(so that I can see if they can go through my application without getting stuck). Also have to look at distributed software system and how to store and where to store it.
 
 
 [start](https://spring.io/quickstart)
