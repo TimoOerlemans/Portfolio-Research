@@ -39,7 +39,7 @@ For this lo I think I have to make some design for my application, do research f
 
 ## Outcome 2. You use software tooling and methodology that continuously monitors and improve the software quality during software development. (IP)
 
-For this lo I think I have to choose which type of testing I need for my project and I need to do the DOT research for this lo.
+For this lo I think I have to choose which type of testing I need for my project and I need to do the DOT research(security) for this lo. I can also ask someone to check my code before I merge it into the master branch for a review.
 I didn't do anything for this lo yet. that is why I am on undefined
 
 
