@@ -14,7 +14,7 @@ This is my research I looked for in my IP and GP project.
   - [3.2 How a business process relates to software applications?](#32-How-a-business-process-relates-to-software-applications)
   - [3.3 Process related to my project](#33-Process-related-to-my-project)
   - [3.4 Sources](#34-Sources)
-
+- [4. LO4 CI/CD](#4-CI/CD)
 
 ## 1. Java framework 
  
@@ -77,3 +77,6 @@ As you can see the cashier is not longer necessary in the second flow. The costu
 [Business process](https://www.techtarget.com/searchcio/definition/business-process)
 
 [Activity diagram](https://www.smartdraw.com/activity-diagram/)
+
+
+## 4. LO4 CI/CDs
