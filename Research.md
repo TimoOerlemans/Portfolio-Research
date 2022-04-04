@@ -80,3 +80,11 @@ As you can see the cashier is not longer necessary in the second flow. The costu
 
 
 ## 4. CI/CD
+
+#### 4.1 What is CI/CD
+CI stands for Continuous Integration and CD for Continuous Delivery. It is a way of working in a software team where certain steps are done automatically. 
+
+CI is about an automatic way of developing code. For example when i have changed a few things or implemented something new then it will automaticly run all the test. If the test are all passed then he will push the code otherwise it will reject the new commits. CD is about simplify making code changes and get it on different environment. 
+
+#### 4. Sources
+[CI/CD](https://www.elasticweb.nl/kennisbank/continuous-integration-en-continuous-delivery-verder-uitgelegd)
