@@ -54,7 +54,24 @@ I think I am on orienting because I know what agile working is and we are using 
 ## Outcome 4. You implement a (semi)automated software release process that matches the needs of the project context. (IP)
 
 This lo is about automated software. An example is that my application runs every test when you push. 
-undefined because I haven't looked good enough to this.
+
+### 4.1 Automatic testing
+
+Tests insures you that your code is working in the way it is supposed to. So it is smart to run those tests everytime you make a change and push something. I am going to make a pipeline where that gets done for me. 
+
+#### Front-end 
+
+(screenshot)
+
+#### Band-end
+
+(screenshot)
+
+### 4.2 Docker
+
+Docker is an open source platform for building, deploying and managing containerized applications. I am going to use docker to be able to automatically build and deploy my application on a push. 
+
+(screenshots)
 
 
 ## Outcome 5. You recognize and take into account cultural differences when working with multi-site teams and are aware of ethical aspects in software development. (GP)
