@@ -79,4 +79,4 @@ As you can see the cashier is not longer necessary in the second flow. The costu
 [Activity diagram](https://www.smartdraw.com/activity-diagram/)
 
 
-## 4. LO4 CI/CD
+## 4. CI/CD
