@@ -73,6 +73,7 @@ Docker is an open source platform for building, deploying and managing container
 
 (screenshots)
 
+[CI/CD Research](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Research.md#4-cicd)
 
 ## Outcome 5. You recognize and take into account cultural differences when working with multi-site teams and are aware of ethical aspects in software development. (GP)
 
