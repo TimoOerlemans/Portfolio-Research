@@ -1,0 +1,26 @@
+name: Docker-file
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ develop ]
+    paths:
+    - BackendProduct/**
+defaults: 
+  run: 
+    working-directory: BackendProduct
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    - name: Build & push Docker image
+      uses: mr-smithers-excellent/docker-build-push@v5
+      with:
+        image: javatechie/springboot-images-new
+        tags: latest
+        registry: docker.io
+        dockerfile: Dockerfile
+        username: ${{ secrets.DOCKER_USERNAME }}
+        password: ${{ secrets.DOCKER_PASSWORD }}
