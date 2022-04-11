@@ -38,7 +38,7 @@ jobs:
         image: timooerlemans/docker-container_3
         tags: latest
         registry: docker.io
-        dockerfile: Dockerfile
+        dockerfile: ./BackendProduct/Dockerfile
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
 
