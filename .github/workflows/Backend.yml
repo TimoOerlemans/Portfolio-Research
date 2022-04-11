@@ -39,7 +39,7 @@ jobs:
     - name: Build with Maven 
       run: mvn clean package
     - name: Build & push Docker image
-      uses: nr-smithers-excellent/docker-build-push@v5
+      uses: mr-smithers-excellent/docker-build-push@v5
       with:
         image: timooerlemans/docker-container_3
         tags: latest
