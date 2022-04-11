@@ -17,6 +17,7 @@ jobs:
     name: Build
     runs-on: ubuntu-18.04
     environment: Build
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
@@ -32,3 +33,4 @@ jobs:
 
     - name: Build with Maven
       run: mvn clean package
+
