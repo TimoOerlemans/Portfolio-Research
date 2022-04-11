@@ -78,6 +78,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>docker-container_3</finalName>
     </build>
 
 </project>
