@@ -31,4 +31,4 @@ jobs:
         
 
     - name: Build with Maven
-      run: mvn -B
+      run: mvn package
