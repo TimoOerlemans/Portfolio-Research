@@ -9,6 +9,10 @@ on:
     paths:
     - BackendProduct/**
 
+defaults: 
+  run: 
+    working-directory: BackendProduct
+
 jobs:
   build:
     runs-on: ubuntu-18.04
