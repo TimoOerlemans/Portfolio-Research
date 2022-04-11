@@ -73,7 +73,7 @@
                 <version>2.5</version>
                 <configuration>
                     <skipTests>false</skipTests>
-                    
+
                     <forkMode>once</forkMode>
                 </configuration>
             </plugin>
