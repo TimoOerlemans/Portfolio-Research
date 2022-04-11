@@ -16,5 +16,5 @@ public class Product {
     public int Id;
     public String Name;
     public String Ingredients;
-    public Double Price; 
+    public Double Price;
 }
