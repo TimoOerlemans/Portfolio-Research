@@ -34,6 +34,7 @@ jobs:
        
     - name: Build with Docker    
       run: mvn clean package
+      working-directory: BackendProduct
     - name: Build & push Docker image
       uses: mr-smithers-excellent/docker-build-push@v5
       with:
