@@ -43,7 +43,7 @@ jobs:
       with:
         image: timooerlemans/docker-container_3
         tags: latest
-        registery: docker.io
+        registry: docker.io
         dockerfile: Dockerfile
         username: ${(secrets.DOCKER_USERNAME)}
         password: ${(secrets.DOCKER_PASSWORD)}
