@@ -17,4 +17,4 @@ public class Product {
     public String Name;
     public String Ingredients;
     public Double Price;
-}
+} 
