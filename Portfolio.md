@@ -43,7 +43,7 @@ For this lo I think I have to choose which type of testing I need for my project
 I didn't do anything for this lo yet. that is why I am on undefined
 
 ### Testing
-
+Tests are done to continuously monitorise if the code works as susposed to. You have different types of test like unit test and intergration test. The difference between those two is that unit test: focuses on one single function while intergration tests are focused on combining functions.
 
 
 #### Test 1
