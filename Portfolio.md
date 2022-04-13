@@ -45,13 +45,17 @@ I didn't do anything for this lo yet. that is why I am on undefined
 ### Testing
 Tests are done to continuously monitorise if the code works as susposed to. You have different types of test like unit test and intergration test. The difference between those two is that unit test: focuses on one single function while intergration tests are focused on combining functions.
 
+#### CI backend
 
-#### Test 1
+<img width="455" alt="image" src="https://user-images.githubusercontent.com/99472273/163126564-68762955-876f-4cf1-be31-62872aecebcb.png">
 
-#### Test 2
+#### CI frontend
 
-### Code coverage
+#### Dockerfile
 
+<img width="326" alt="image" src="https://user-images.githubusercontent.com/99472273/163125884-07426d3d-4136-4fa5-8a32-ea1e2a99395c.png">
+
+#### Security research
 
 [Security Research](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Research.md#5-Security)
 
