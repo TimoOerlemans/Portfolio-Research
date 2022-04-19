@@ -16,7 +16,7 @@ Here I go through all the learning outcomes that I need to prove so I go to the 
 
 ## Outcome 1. You design and build user-friendly, full-stack web applications. (IP & GP)
 
-I think I am standing for this LO on oriënting because in my readme file you can see my research on frameworks. After these descicions I want to learn how to work with these frameworks so I have found a few tutorials that I am going to follow. 
+I think I am standing for this LO on oriënting because in my readme file you can see my research on frameworks. After these descicions I want to learn how to work with these frameworks so I have done a few tutorials. And now I apply them in my own project but i think not enough to be on the beginning. 
 
 #### design
 
@@ -40,14 +40,18 @@ For this lo I think I have to make some design for my application, do research f
 ## Outcome 2. You use software tooling and methodology that continuously monitors and improve the software quality during software development. (IP)
 
 For this lo I think I have to choose which type of testing I need for my project and I need to do the DOT research(security) for this lo. I can also ask someone to check my code before I merge it into the master branch for a review.  
-I didn't do anything for this lo yet. that is why I am on undefined
+I think I am on orienting because I know what to do and what I need but have not done the tests.
 
 ### Testing
 Tests are done to continuously monitorise if the code works as susposed to. You have different types of test like unit test and intergration test. The difference between those two is that unit test: focuses on one single function while intergration tests are focused on combining functions.
 
-#### Test 1
+#### Unit testing
 
-#### Test 2
+I am going to create multiple unit tests to know if my functions are working as they suposed to do. I am going to do that by making test that should be right and wrong. 
+
+#### Integration testing
+
+For these tests I am going to use [Mockmvc](https://howtodoinjava.com/spring-boot2/testing/spring-boot-mockmvc-example/). This Mockmvc allows me to create fake request to the controller.
 
 #### Security research
 
@@ -56,11 +60,13 @@ Tests are done to continuously monitorise if the code works as susposed to. You 
 
 ## Outcome 3. You can implement the software process for your project according to a given agile software development method. (GP)
 
-In the groupsproject we use an agile way of working based on SCRUM. We do daily stand-ups, stand-downs and Peer review so everbody can say something about everyone. We also work in sprints of three weeks were we devide tasks to everyone in each sprint. 
-
 This lo is about agile working. I need to understand what agile working is and implement it into my groupproject.
 
-I think I am on orienting because I know what agile working is and we are using it in our groupproject. We are working in sprints of 3 weeks where we all have our own tasks. If a task is done you can pick up an other task and work on that. Also are we holding a standup and standdown every day for the groupproject days.
+In the groupsproject we use an agile way of working based on SCRUM. We do daily stand-ups, stand-downs and Peer review so everbody can say something about everyone. We also work in sprints of three weeks were we devide tasks to everyone in each sprint. 
+
+We have tried different progams to use scrum but now we use only 2 programs: Github and Trello. In github are our projectboards and sprintbacklogs but in trello we have our burndownchart. 
+
+I think I am on beginning because I know what agile working is and we are using it in our groupproject. I have asked an other group how they use scrum and it looks a little bit like we use it but they use for the sprintbacklogs trello. 
 
 ## Outcome 4. You implement a (semi)automated software release process that matches the needs of the project context. (IP)
 
@@ -90,18 +96,23 @@ After this I only need to do is automatically deploy these images in a container
 
 [CI/CD Research](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Research.md#4-cicd)
 
+I think I am on oriënting because I know what I have to do and it works almost but it's not complete. After I made a container from my images and see the container I stand on beginning according to me. And when I have tests and a front-end ci/cd I am on beginning.
+
 ## Outcome 5. You recognize and take into account cultural differences when working with multi-site teams and are aware of ethical aspects in software development. (GP)
 
 Here I have to know how different type of culturals work(some culturals work different than other culturals).
 
-I have worked a little bit on this because when I was making user stories you need to look at what every culture wants.
-undefined
+I have not done anything for this lo so I am on undifined.
 
 ## Outcome 6. You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques. (GP)
 
-In my group project I participated in making user stories but we all did just one or two. In my individual project I have made multiple user stories. From those user stories I made the C4 model that you can find in the readme file.
-
 For this Lo I need to make architectural designs, make requirements and test with different techniques. I think I am standing here on orienting bacause in my own project I have made some of the architectural designs and understand what they mean.
+
+In my group project I participated in making user stories. In my individual project I have made multiple user stories. I made the C4 model that you can find in the readme file.
+
+At the end of the project I want to have someone search for something up and see how long it takes before it works.
+
+For this lo I think I am on beginning because I made some architectural designs and requirements for the group- and individualproject. I know what type of tests I want to do so I can validate these.
 
 [User stories](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/README.md#user-stories)
 
@@ -111,15 +122,18 @@ For this Lo I need to make architectural designs, make requirements and test wit
 
 For this LO I did some research about what a business process is. I answered some questions about this topic and for the visuals I made two activity diagrams(first one before the software applied and the second with) with draw io.
 
+I am standing on beginning because I know what a simple business process is and how it relates to my project. 
+
 [Business research](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Research.md#3-business-processes)
 
 ## Outcome 8. You act in a professional manner during software development and learning. (IP & GP)
 
 For this lo I am going try to use pomodoro and also I am going to make a projectboard where all my features stand that I need to make. And for my professional manner I need to show that I am able to communicate good with my team and stakeholders.
 
-I think I am on orienting because in the groupsproject we already use a projectboard and have done a Peerpulse where we gave feedback to eachother what could be done better. But this Lo can go to beginning when further in the projects. 
+I have used pomodoro on the individual days but came to a conclussion that sometimes it doesn't work for me and sometimes it does. When I am in a good working mood and it all works then I just want to stay working and don't want to pause. But when I am very distracted I need it to stay foccused. 
+
+In the second sprint from the groupspoject we have used some feedback we recieved form the stakeholders. Like in the first sprint we didn't used the projectboard good and some other things but in the second sprint we did. After our second meeting with the stakeholders they asked if we did something with the feedback and we showed them this they were positive about this. 
+
+I think I am on beginning because in the groupsproject we use a projectboard and have done a Peerpulse where we gave feedback to eachother what could be done better. 
 
 <img width="545" alt="image" src="https://user-images.githubusercontent.com/99472273/159669126-d0111f9f-40ab-4ac2-be85-cb7052e68485.png">
-
-
-
