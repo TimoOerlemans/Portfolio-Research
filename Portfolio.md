@@ -70,7 +70,7 @@ I think I am on beginning because I know what agile working is and we are using 
 
 ## Outcome 4. You implement a (semi)automated software release process that matches the needs of the project context. (IP)
 
-This lo is about automated software. An example is that my application runs every test when you push. 
+This lo is about automated software. An example is that my application runs every test when you push this has somethings to do with outcome 2(quality) because it makes sure that you know that all the test you made for this lo keep working. 
 
 ### 4.1 Automatic testing
 
