@@ -11,6 +11,7 @@ Here I go through all the learning outcomes that I need to prove so I go to the 
 - [Outcome 6](#outcome-6-you-translate-non-functional-requirements-to-extend-existing-architectural-designs-and-can-validate-them-using-multiple-types-of-test-techniques-gp)
 - [Outcome 7](#outcome-7-you-can-explain-simple-business-processes-and-relate-them-to-the-development-of-your-software-project-gp)
 - [Outcome 8](#outcome-8-you-act-in-a-professional-manner-during-software-development-and-learning-ip--gp)
+- [STARRT](#STARR-T)
 
 ## Learning outcomes
 
@@ -26,6 +27,7 @@ For my individual project I made a few Wireframes so I have an idea of how my ap
 
 For this lo I think I have to make some design for my application, do research for what kind of framework to use, make a final product and then test it on people who have not seen the product(so that I can see if they can go through my application without getting stuck). Also have to look at distributed software system and how to store and where to store it.
 
+To become on Proficient for this lo I need to build my application, test it on a user and document all of this.
 
 [start](https://spring.io/quickstart)
 
@@ -70,11 +72,11 @@ I think I am on beginning because I know what agile working is and we are using 
 
 ## Outcome 4. You implement a (semi)automated software release process that matches the needs of the project context. (IP)
 
-This lo is about automated software. An example is that my application runs every test when you push this has somethings to do with outcome 2(quality) because it makes sure that you know that all the test you made for this lo keep working. 
+This lo is about automated software. An example is that my application runs every test when you push this has somethings to do with outcome 2(quality) because it makes sure that you know that all the test you made for this lo keep working. I am going to make pipelines for my ci/cd, one for the frontend and one for the backend. These pipelines make sure that my code is working as they suposed to. They build my project and after that they run all the test to see if they pass. I already have made a ci/cd for my backend but my docker is not working good enough so I need to fix that. After that I only need to make a ci/cd pipeline for my frontend to become on proficient. 
 
 ### 4.1 Automatic testing
 
-Tests insures you that your code is working in the way it is supposed to. So it is smart to run those tests everytime you make a change and push something. I am going to make a pipeline where that gets done for me. 
+Tests insures you that your code is working in the way it is supposed to. So it is smart to run those tests everytime you make a change and push something. I am going to make a pipeline where that will be done for me everytime I push something to main.  
 
 #### Front-end 
 
@@ -137,3 +139,28 @@ In the second sprint from the groupspoject we have used some feedback we recieve
 I think I am on beginning because in the groupsproject we use a projectboard and have done a Peerpulse where we gave feedback to eachother what could be done better. 
 
 <img width="545" alt="image" src="https://user-images.githubusercontent.com/99472273/159669126-d0111f9f-40ab-4ac2-be85-cb7052e68485.png">
+
+## STARR(T)
+
+#### Situation
+
+We were recording the retrospective on april 21 and talked about what could be done better. The 3 weeks before that went pretty good because we could check everything off that we would do in those 3 weeks. But in my eyes not everyone was helping as much in the project. 
+
+#### Task
+
+My task in this conversation was just tell what I found about these 3 weeks. In those 3 weeks I worked mostly on the frontend. I made the account function in our application because that was an requirement from the stakeholders. Some others were working on the overview function (so you see all your information about a flight and accomodation). After I was done with my task I wanted to help someone else with there tasks. So I helped with the overview and made it work. 
+
+#### Action
+
+During those tasks some people did not work on something and were doing other things not related to the project. So I wanted to say something in the retrospective so I could see what they were doing during the time we were working. I didn't wanted to blame everything on them after just one sprint because they need the time to improve themself. 
+
+#### Result
+
+As an result we made an agreement that we were going to be more involved with eachother work. This is for now good but we will see it in the next sprint. If we continue to keep this promise it will work because then we can see more of what they are doing and say something quicker if they don't do anything. 
+
+#### Reflection
+
+For me the conversation went good and we made some promises that should keep this problem away. I think I did a good job in not immediatly being the one who is going for someones throat. I hope to see some better results in the next 3 weeks. The next time the one thing I would change about what I have done is that it needed to be said earlier. So they could change there behavior quicker and do some more work. 
+
+#### Transfer
+
