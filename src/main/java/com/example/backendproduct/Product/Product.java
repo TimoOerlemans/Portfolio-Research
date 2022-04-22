@@ -13,7 +13,7 @@ import javax.persistence.*;
 @AllArgsConstructor
 public class Product {
     @Id
-    public int Id;
+    public Integer Id;
     public String Name;
     public String Ingredients;
     public Double Price;
