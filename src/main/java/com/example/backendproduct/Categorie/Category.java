@@ -1,4 +1,4 @@
-package com.example.backendproduct.Product;
+package com.example.backendproduct.Categorie;
 
 import lombok.*;
 
@@ -7,21 +7,15 @@ import javax.persistence.*;
 @Getter
 @Setter
 @Entity
-@Table(name = "product")
+@Table(name = "categorie")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class Product {
+public class Category {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public Long Id;
 
     @Column(name = "name")
     public String name;
-
-    @Column(name = "ingredients")
-    public String ingredients;
-
-    @Column(name = "price")
-    public Double price;
-    }
+}

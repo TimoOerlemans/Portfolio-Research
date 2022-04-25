@@ -1,44 +1,25 @@
 package com.example.backendproduct.Product;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 @Service
-public class ProductService {
+@Transactional
+public class ProductService implements IProductService {
+
     @Autowired
-    private ProductRepository repository;
+    private ProductRepository productRepository;
 
-    public ProductService(ProductRepository productRepository){
-        this.repository =productRepository;
-    }
-
-
-    public Product saveProduct(Product product){
-        return repository.save(product);
-    }
-
-    public List<Product> getProducts(){
-        return repository.findAll();
-    }
-
-    public Product getProductById(int id){
-        return repository.findById(id).orElse(null);
-    }
-
-    public String deleteProduct(int id){
-        repository.deleteById(id);
-
-        return "You have Deleted" + id;
-    }
-
-    public Product updateProduct(Product product){
-        Product existingProduct = repository.findById(product.getId()).orElse(null);
-        existingProduct.setName(product.getName());
-        existingProduct.setPrice(product.getPrice());
-        existingProduct.setIngredients(product.getIngredients());
-
-        return  repository.save(existingProduct);
+    @Override
+    public List<Product> getAllProducts() {
+        return productRepository.findAll();
     }
 }
+
