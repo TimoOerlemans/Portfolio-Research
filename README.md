@@ -5,9 +5,9 @@
 
 This is my reading guide about my IP and GP project.
 
-[Here](#https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Portfolio.md) I show how I proved my LO's.
+[Here](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Portfolio.md) I show how I proved my LO's.
 
-And [here](#https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Research.md) is my documentation.
+And [here](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Research.md) is my documentation.
 
 ## Individual project
 
