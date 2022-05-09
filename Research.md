@@ -90,7 +90,7 @@ CI is about an automatic way of developing code. For example when i have changed
 #### 4. Sources
 [CI/CD](https://www.elasticweb.nl/kennisbank/continuous-integration-en-continuous-delivery-verder-uitgelegd)
 
-#### 5. Cultural differences and ethics
+## 5. Cultural differences and ethics
 
 Can I work with people who are different then me.
 
@@ -167,7 +167,7 @@ I found a [tool](https://fhict.instructure.com/courses/12096/files/1577291/downl
 We make a traval dashboard that let you see your booked trips and offers for next trips.
 
 **Possible stakeholders**:
-Everyone that booked a trip on this site.
+Everyone that books a trip on this site.
 
 **Privacy**:
 We make sure that not everybody can see everyones booked trips so we made an inlog system that checks if the person is the person who says he is. 
