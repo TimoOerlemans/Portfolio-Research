@@ -57,7 +57,7 @@ For these tests I am going to use [Mockmvc](https://howtodoinjava.com/spring-boo
 
 #### Security research
 
-[Security Research](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Research.md#5-Security)
+[Security Research](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Research.md#6-Security)
 
 
 ## Outcome 3. You can implement the software process for your project according to a given agile software development method. (GP)
@@ -103,8 +103,7 @@ I think I am on oriënting because I know what I have to do and it works almost 
 ## Outcome 5. You recognize and take into account cultural differences when working with multi-site teams and are aware of ethical aspects in software development. (GP)
 
 Here I have to know how different type of culturals work(some culturals work different than other culturals).
-
-I have not done anything for this lo so I am on undifined.
+[Here](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Research.md#5-cultural-differences-and-ethics) is my research on this LO.
 
 ## Outcome 6. You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques. (GP)
 

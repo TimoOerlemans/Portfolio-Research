@@ -15,6 +15,7 @@ This is my research I looked for in my IP and GP project.
   - [3.3 Process related to my project](#33-Process-related-to-my-project)
   - [3.4 Sources](#34-Sources)
 - [4. LO4 CI/CD](#4-cicd)
+- [5. LO5 Culteral difference and ethics](#5-cultural-differences-and-ethics)
 
 ## 1. Java framework 
  
@@ -88,3 +89,104 @@ CI is about an automatic way of developing code. For example when i have changed
 
 #### 4. Sources
 [CI/CD](https://www.elasticweb.nl/kennisbank/continuous-integration-en-continuous-delivery-verder-uitgelegd)
+
+## 5. Cultural differences and ethics
+
+Can I work with people who are different then me.
+
+### 5.1 What is culture?
+
+I have found this source (Wikipedia)
+
+>"Culture is a word for the 'way of life' of groups of people, meaning the way they do things. Different groups may have different cultures. A culture is passed on to the next generation by learning, whereas genetics are passed on by heredity. Culture is seen in people's writing, religion, music, clothes, cooking and in what they do."
+
+In my own words: Culture is a way how a curtain group does things like writing, be with family and music. I have been in contact with many different cultures so I know that every group has his own way of communicating. Therefore I can be different with different type of cultures.
+
+### 5.2 Can you give examples for cultural differences that you have experienced in your study or life? How do you explain these differences?
+
+I work in a sushi restaurant where almost only Chinese people work in the kitchen. They make all these dishes that I would never eat if I didn't have worked there. One day they made fish head soup I didn't try that one because the smell made me a little bit ill. Another day they made chicken legs and not chickenwings but the real legs from the chicken. I tried one of them and didn't like them. When I am home we just eat like patatoes or a fake Chinese recipe.
+
+### 5.3 What is your culture?
+
+I am Dutch, so mostly we eat dutch food at home and on occasion we eat something else. We have some typical dutch food like syrup waffles, Poffertjes and a lot of cheese. Cheese is in my opinion disgusting I only eat it in tosti's and pizza's. <br>
+In the Netherlands we celebrate a few holidays like sinterklaas, carnaval(only the south of the netherlands) and halloween. <br>
+In our culture is sport a really big thing in my eyes. Everyone I know plays minimun of 1 sport mostly soccer or hockey. But cycling is the one thing we as dutch people do the most accourding to [this](https://discerningcyclist.com/which-city-has-the-most-cyclists-statistics/).
+
+### 5.4 What did you do to improve the group communications with respect to cultural differences? 
+
+In my second semester we had someone who came out Syria. He could not speak dutch that well and was very different in the way he talked and the topics. So as group we helped in when he couldn't follow everything what we said. Also when we had to presentate something to the class or stakeholders we helped him what he could say. 
+
+In the semester therefor I had someone who was religious so she went to the church and believed in jesus. Some of our group then used to curse a lot with goddammit. She told us that she didn't like that so we took that into account.  
+
+### 5.5 What is ethics in software engineering?
+
+According to [this](https://ethics.org.au/about/what-is-ethics/) site.
+
+>"Ethics is the process of questioning, discovering and defending our values, principles and purpose. It’s about finding out who we are and staying true to that in the face of temptations, challenges and uncertainty. It’s not always fun and it’s hardly ever easy, but if we commit to it, we set ourselves up to make decisions we can stand by, building a life that’s truly our own and a future we want to be a part of."
+
+### 5.6 Why is ethics important in software engineering? 
+
+Ethics are important for software engineering because people don't need to be affected in a bad way. As example if a boss asks software engineers to make something that gets all there data even thought he doesn't need it would you still do it.
+
+### 5.7 What do you have to do as a software engineer to address ethical aspects in your work? 
+
+According to Daniel Alcanja.
+
+>"There is a really useful set of rules called the Software Engineering Code of Ethics that indicates the moral and professional commitments of software engineers. This code was created by a global team made up of mechanical, government, military, and instructive experts. 
+
+These are the eight principles created by the ACM Committee on Professional Ethics:
+
+1. Public: Software engineers shall act consistently with the public interest.
+
+2. Client and employer: Software engineers shall act in a manner that is in the best interests of their client and employer consistent with the public interest.
+
+3. Product: Software engineers shall ensure that their products and related modifications meet the highest professional standards possible.
+
+4. Judgment: Software engineers shall maintain integrity and independence in their professional judgment.
+
+5. Management: Software engineering managers and leaders shall subscribe to and promote an ethical approach to the management of software development and maintenance.
+
+6. Profession: Software engineers shall advance the integrity and reputation of the profession consistent with the public interest.
+
+7. Colleagues: Software engineers shall be fair to and supportive of their colleagues.
+
+8. Self: Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession."
+
+### 5.8 How do you know that your ethical considerations match with those of other software engineers? 
+
+If you talk to anohter software engineer and you don't have the same opinion about a topic you have to share your view with the other and find a middle. You have to look at eachother work and be really critical and say what is in your mind.
+
+### 5.9 Which ethical aspects play a role in your project? 
+
+In my groupsproject we have to be professional to each other but also to our teachers and stakeholders. This is even a whole learning outcome in the group- and individualproject. I do this by asking the teachers for feedback every two weeks or so. We speak the stakeholders every sprint which last 3 weeks. Further we do a feedback moment where we talk about the group almost every sprint.
+
+### 5.10 Do you foresee ethical conflicts caused by your software? What kind of?
+
+I found a [tool](https://fhict.instructure.com/courses/12096/files/1577291/download?wrap=1) in the canvas course.
+
+We make a traval dashboard that let you see your booked trips and offers for next trips.
+
+**Possible stakeholders**:
+Everyone that books a trip on this site.
+
+**Privacy**:
+We make sure that not everybody can see everyones booked trips so we made an inlog system that checks if the person is the person who says he is. 
+
+**Bad Actors**:
+Some people can see personal data and use this against them. Also they can take there tickets and update them so they can use the tickets.
+
+**Human Values**:
+Users can check there information without calling someone from the companie so an ethic conflict is that a few people could lose there job because of this.
+
+**Future Impact**:
+This is just the first step in the walk towards the future. In an Utopian version is that everyone still have there job and they can work calmer. In a dystopian situation eveyone can lose there job and everything get automated.
+
+### 5.11 Source 
+
+Wikipedia(3 March 2022) Culture https://simple.wikipedia.org/wiki/Culture. Consulted on 9 may 2022.
+
+Kelsey Raynor(AUGUST 24, 2021) Which City Has the Most Cyclists? https://discerningcyclist.com/which-city-has-the-most-cyclists-statistics/. Consulted on 9 may 2022.
+
+Unknown(unknown)What is ethics https://ethics.org.au/about/what-is-ethics/. Consulted on 11 may 2022.
+
+FHICT(unknown)TICT Canvas https://fhict.instructure.com/courses/12096/pages/ethics-analysis-do-you-think-about-ethical-consequences-from-the-software-you-make. Consulted on 9 may 2022. 
