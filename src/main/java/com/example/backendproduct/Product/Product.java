@@ -14,7 +14,7 @@ import javax.persistence.*;
 public class Product {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    public Long Id;
+    public Long id;
 
     @Column(name = "name")
     public String name;
@@ -24,4 +24,4 @@ public class Product {
 
     @Column(name = "price")
     public Double price;
-    }
+}

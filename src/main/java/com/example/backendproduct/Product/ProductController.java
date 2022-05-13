@@ -26,12 +26,12 @@ public class ProductController {
         return service.getAllProducts();
     }
 
-    @PostMapping("/product")
+    @PostMapping("/add")
     public Product saveProduct(@RequestBody Product product){
         return repository.save(product);
     }
 
-    @DeleteMapping("/product/{id}")
+    @DeleteMapping("/delete/{id}")
     public ResponseEntity<Map<String, Boolean>> deleteProduct(@PathVariable long id){
         Product product = repository.findById(id)
                 .orElseThrow(() -> new ResourceNotFoundException("Product does not exist with id" + id));
