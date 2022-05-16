@@ -28,17 +28,11 @@ public class ProductController {
 
     @PostMapping("/add")
     public Product saveProduct(@RequestBody Product product){
-        return repository.save(product);
+        return service.saveProduct(product);
     }
 
     @DeleteMapping("/delete/{id}")
     public ResponseEntity<Map<String, Boolean>> deleteProduct(@PathVariable long id){
-        Product product = repository.findById(id)
-                .orElseThrow(() -> new ResourceNotFoundException("Product does not exist with id" + id));
-
-        repository.delete(product);
-        Map<String, Boolean> response = new HashMap<>();
-        response.put("Deleted", Boolean.TRUE);
-        return ResponseEntity.ok(response);
+        return service.deleteProduct(id);
     }
 }
