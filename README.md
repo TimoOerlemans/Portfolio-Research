@@ -20,15 +20,15 @@ After I have chosen which framework I am going to use. I am going to look up som
 
 
 ### User stories
-
+  
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/99472273/154964905-71d5f39c-b226-4a07-8fe8-82df99152b62.png" width=500 height=70></td> 
-    <td><img src="https://user-images.githubusercontent.com/99472273/154964983-3141a3d1-61c5-41a8-84c1-62ee1ec5718d.png" width=500 height=70></td> 
+    <td><img src="https://user-images.githubusercontent.com/99472273/168768314-fe249f64-474f-400f-82e8-bbfcdbdfd0de.png" width=500 height=70></td> 
+    <td><img src="https://user-images.githubusercontent.com/99472273/168768736-fbcf9c7c-46a8-43b2-88cb-ae06e75dc43f.png" width=500 height=70></td> 
   </tr>
  <tr>
-    <td><img src="https://user-images.githubusercontent.com/99472273/154965068-f1d96329-927e-41f0-ad53-fa093d3aa85f.png" width=500 height=70></td> 
-    <td><img src="https://user-images.githubusercontent.com/99472273/154965388-76371800-f8e5-4f37-ad26-6f83fe14a125.png" width=500 height=70></td> 
+    <td><img src="https://user-images.githubusercontent.com/99472273/168768895-ff3da803-05f0-41ee-8af1-e946cd1e7199.png" width=500 height=70></td> 
+    <td><img src="https://user-images.githubusercontent.com/99472273/168769089-d6a77919-ab87-476b-a016-de8b4a0b50f8.png" width=500 height=70></td> 
   </tr>
  </table>
 
@@ -38,18 +38,18 @@ The four C's stand for: context, containers, components and code. These models a
 #### C1
 In the image below you can see the first level of the C4 model. This is my context model. In this model there are no details just general things about my application. You can see who the user is and directly connected systems.
 
-<img width="367" alt="image" src="https://user-images.githubusercontent.com/99472273/157012142-9610dc4c-7afc-4a60-b062-74b323b03a82.png">
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/99472273/168769545-31a54ff6-2423-4475-8573-a2d387ca20c9.png">
 
 
 #### C2
 The second model is the container diagram. This one describes the software system and shows all the API's, databases, applications and microservices that the system uses. It also shows how my containers communicate with eachother.
 
-<img width="460" alt="image" src="https://user-images.githubusercontent.com/99472273/157030445-f9f1bce7-c6bf-4799-aba6-7be7efaafd86.png">
+<img width="393" alt="image" src="https://user-images.githubusercontent.com/99472273/168769376-9ef1fa7c-b691-4e97-b6b8-160e1a56790f.png">
 
 #### C3
 The third model is the component diagram. This diagram shows code from one single container. 
 
-<img width="269" alt="image" src="https://user-images.githubusercontent.com/99472273/157033089-5f218dc9-d4be-4b5a-9763-35f48026e972.png">
+<img width="232" alt="image" src="https://user-images.githubusercontent.com/99472273/168767426-fc682803-ba68-4795-8c9f-dc403f5c1055.png">
 
 [C4 model](https://www.infoq.com/articles/C4-architecture-model/)
 
@@ -64,6 +64,3 @@ I made some UI-designs so that I know where to place the components
   <td><img width="500" alt="image" src="https://user-images.githubusercontent.com/99472273/157851688-5e4bb303-1f0f-4e47-aafb-431e93673914.png"></td>
     </tr>
 </table>
-  
-
-## Group project
