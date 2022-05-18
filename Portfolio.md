@@ -51,9 +51,13 @@ Tests are done to continuously monitorise if the code works as supposed to. You 
 
 I am going to create multiple unit tests to know if my functions are working as they supposed to do. I am going to do that by making test that should be right and wrong. The methods I am going to test are my crud methods in the back-end. 
 
+<img width="623" alt="image" src="https://user-images.githubusercontent.com/99472273/169038950-dfd01719-8fc3-42fc-b356-ff68a3af8cf6.png">
+
 #### Integration testing
 
 For these tests I am going to use [Mockmvc](https://howtodoinjava.com/spring-boot2/testing/spring-boot-mockmvc-example/). This Mockmvc allows me to create fake request to the controller.
+
+<img width="596" alt="image" src="https://user-images.githubusercontent.com/99472273/169038805-3ad1f45b-f6bc-4518-8b21-4bfae228faaf.png">
 
 #### Security research
 
