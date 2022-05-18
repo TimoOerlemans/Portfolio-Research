@@ -32,14 +32,13 @@ public class ProductService implements IProductService {
         return productRepository.save(product);
     }
 
-    public ResponseEntity<Map<String, Boolean>> deleteProduct(@PathVariable long id){
-        Product product = productRepository.findById(id)
-                .orElseThrow(() -> new ResourceNotFoundException("Product does not exist with id" + id));
-
-        productRepository.delete(product);
-        Map<String, Boolean> response = new HashMap<>();
-        response.put("Deleted", Boolean.TRUE);
-        return ResponseEntity.ok(response);
+    public void deleteProduct(@PathVariable long id){
+        boolean exists = productRepository.existsById(id);
+        if (!exists) {
+            throw new ResourceNotFoundException("Product with id " + id + " does not exist");
+        }
+        productRepository.deleteById(id);
+        System.out.println("Product " + id + " deleted!");
     }
 }
 
