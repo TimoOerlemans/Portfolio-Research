@@ -13,7 +13,6 @@ on:
 
 jobs:
   build:
-    name: Build
     runs-on: ubuntu-18.04
     environment: Build
     steps:
