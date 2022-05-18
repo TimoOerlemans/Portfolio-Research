@@ -11,14 +11,12 @@ import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import static org.mockito.ArgumentMatchers.*;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.mockito.BDDMockito.given;
-import static org.mockito.Mockito.never;
 import static org.mockito.Mockito.verify;
 
-@SpringBootTest
 @ExtendWith(MockitoExtension.class)
+@SpringBootTest
 public class ProductServiceTest {
     @Mock
     private ProductRepository repository;
@@ -47,7 +45,7 @@ public class ProductServiceTest {
     }
 
     @Test
-    void DeleteRoom(){
+    void DeleteProduct(){
         Long id = 1L;
 
         given(repository.existsById(id)).willReturn(true);

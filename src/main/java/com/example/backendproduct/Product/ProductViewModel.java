@@ -1,6 +1,5 @@
 package com.example.backendproduct.Product;
 
-import com.example.backendproduct.Product.Product;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

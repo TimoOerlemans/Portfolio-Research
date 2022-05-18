@@ -42,14 +42,14 @@ To become on Proficient for this lo I need to build my application, test it on a
 ## Outcome 2. You use software tooling and methodology that continuously monitors and improve the software quality during software development. (IP)
 
 For this lo I think I have to choose which type of testing I need for my project and I need to do the DOT research(security) for this lo. I can also ask someone to check my code before I merge it into the master branch for a review.  
-I think I am on orienting because I know what to do and what I need but have not done the tests.
+I think I am on beginning because I know what to do and what I need but have not done the tests.
 
 ### Testing
-Tests are done to continuously monitorise if the code works as susposed to. You have different types of test like unit test and intergration test. The difference between those two is that unit test: focuses on one single function while intergration tests are focused on combining functions.
+Tests are done to continuously monitorise if the code works as supposed to. You have different types of test like unit test and integration test. The difference between those two is that unit test: focuses on one single function while integration tests are focused on combining functions.
 
 #### Unit testing
 
-I am going to create multiple unit tests to know if my functions are working as they suposed to do. I am going to do that by making test that should be right and wrong. 
+I am going to create multiple unit tests to know if my functions are working as they supposed to do. I am going to do that by making test that should be right and wrong. The methods I am going to test are my crud methods in the back-end. 
 
 #### Integration testing
 
@@ -64,11 +64,11 @@ For these tests I am going to use [Mockmvc](https://howtodoinjava.com/spring-boo
 
 This lo is about agile working. I need to understand what agile working is and implement it into my groupproject.
 
-In the groupsproject we use an agile way of working based on SCRUM. We do daily stand-ups, stand-downs and Peer review so everbody can say something about everyone. We also work in sprints of three weeks were we devide tasks to everyone in each sprint. 
+In the groupsproject we use an agile way of working based on SCRUM. We do daily stand-ups, stand-downs and Peer review so everybody can say something about everyone. We also work in sprints of three weeks were we divide tasks to everyone in each sprint. 
 
-We have tried different progams to use scrum but now we use only 2 programs: Github and Trello. In github are our projectboards and sprintbacklogs but in trello we have our burndownchart. 
+We have tried different progams to use scrum ,but now we use only 2 programs: Github and Trello. In github are our projectboards and sprintbacklogs but in trello we have our burndownchart. 
 
-I think I am on beginning because I know what agile working is and we are using it in our groupproject. I have asked an other group how they use scrum and it looks a little bit like we use it but they use for the sprintbacklogs trello. 
+I think I am on beginning because I know what agile working is ,and we are using it in our groupproject. I have asked another group how they use scrum and it looks a little bit like we use it but they use for the sprint-backlogs trello. 
 
 ## Outcome 4. You implement a (semi)automated software release process that matches the needs of the project context. (IP)
 
@@ -98,7 +98,7 @@ After this I only need to do is automatically deploy these images in a container
 
 [CI/CD Research](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Research.md#4-cicd)
 
-I think I am on oriënting because I know what I have to do and it works almost but it's not complete. After I made a container from my images and see the container I stand on beginning according to me. And when I have tests and a front-end ci/cd I am on beginning.
+I think I am on oriënting because I know what I have to do ,and it works almost ,but it's not complete. After I made a container from my images and see the container I stand on beginning according to me. And when I have tests and a front-end ci/cd I am on beginning.
 
 ## Outcome 5. You recognize and take into account cultural differences when working with multi-site teams and are aware of ethical aspects in software development. (GP)
 
