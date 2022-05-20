@@ -51,13 +51,9 @@ Tests are done to continuously monitorise if the code works as supposed to. You 
 
 I am going to create multiple unit tests to know if my functions are working as they supposed to do. I am going to do that by making test that should be right and wrong. The methods I am going to test are my crud methods in the back-end. 
 
-<img width="623" alt="image" src="https://user-images.githubusercontent.com/99472273/169038950-dfd01719-8fc3-42fc-b356-ff68a3af8cf6.png">
-
 #### Integration testing
 
 For these tests I am going to use [Mockmvc](https://howtodoinjava.com/spring-boot2/testing/spring-boot-mockmvc-example/). This Mockmvc allows me to create fake request to the controller.
-
-<img width="596" alt="image" src="https://user-images.githubusercontent.com/99472273/169038805-3ad1f45b-f6bc-4518-8b21-4bfae228faaf.png">
 
 #### Security research
 
@@ -72,18 +68,12 @@ In the groups project we use an agile way of working based on SCRUM. We do daily
 
 We have tried different programs to use scrum ,but now we use only 2 programs: Github and Trello. In github are our projectboards and sprintbacklogs but in trello we have our burndownchart. 
 
-
-According to the Scrum guide lines we use every member of the scrum team(Master, stakeholders and developers). Further I know every scrum event and what to do in each one of them(Planning, Daily scrum, review, Retrospective and Artifacts).
-
-I think I am on proficient because I know what agile working is ,and we are using it in our groupproject. I have asked another group how they use scrum and it looks a little bit like we use it but they use for the sprint-backlogs trello. 
-=======
 Scrum is not the only agile methodology there are many more like XP(Extreme programming). The people who developed this way of working described it as "a humanistic discipline of software development, based on principles of simplicity, communication, feedback, and courage". XP is really focussed on just coding. They do something controversial to what almost to none other agile method uses and that is "pair programming". This pair programming means that two people work on the same computer. 
 Before I read this method I didn't know we kinda just this already because if we sometimes can't figure it out, we'll work on a piece together. There are some things that match and others don't. Like they also make first the user story's and put an index on them to see how difficult they are. With scrum they do something called plan-poker and give every story points to estimate the amount of work. But with XP they give the points on 3 different risk indexes(Integrality, Vulnerability, difficulty). There is also one big difference and that is that it is tested first and then made for real. That is something I have never done before and in my eyes it is something I don't want to do.
 
 I think I am on proficient because I know what agile working is ,and we are using it in our groups project. I have asked another group how they use scrum and it looks a little like we use it but they use for the sprint-backlogs trello. This semester we have worked with scrum but maybe next semester I want to try to work with XP because it sounds like a good method to work with.
 
 [XP](https://nl.wikipedia.org/wiki/Extreme_programming#Geschiedenis)
->>>>>>> Stashed changes
 
 ## Outcome 4. You implement a (semi)automated software release process that matches the needs of the project context. (IP)
 
@@ -113,7 +103,7 @@ After this I only need to do is automatically deploy these images in a container
 
 [CI/CD Research](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Research.md#4-cicd)
 
-I think I am on beginning because I know what I have to do ,and it works almost ,but it's not complete. After I made a container from my images and see the container I stand on beginning according to me. And when I have tests and a front-end ci/cd I am on proficient.
+I think I am on oriënting because I know what I have to do ,and it works almost ,but it's not complete. After I made a container from my images and see the container I stand on beginning according to me. And when I have tests and a front-end ci/cd I am on beginning.
 
 ## Outcome 5. You recognize and take into account cultural differences when working with multi-site teams and are aware of ethical aspects in software development. (GP)
 
@@ -132,7 +122,7 @@ In my group project I participated in making user stories. In my individual proj
 
 At the end of the project I want to have someone search for something up and see how long it takes before it works.
 
-For this lo I think I am on proficient because I made the architectural designs and requirements for the group- and individualproject. I know what type of tests I want to do so I can validate these.
+For this lo I think I am on proficient because I made some architectural designs and requirements for the group- and individualproject. I know what type of tests I want to do so I can validate these.
 
 [User stories](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/README.md#user-stories)
 
@@ -142,7 +132,7 @@ For this lo I think I am on proficient because I made the architectural designs 
 
 For this LO I did some research about what a business process is. I answered some questions about this topic and for the visuals I made two activity diagrams(first one before the software applied and the second with) with draw io.
 
-I am standing on proficient because I know what a simple business process is and how it relates to my project. 
+I am standing on beginning because I know what a simple business process is and how it relates to my project. 
 
 [Business research](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Research.md#3-business-processes)
 
