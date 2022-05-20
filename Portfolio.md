@@ -103,7 +103,7 @@ After this I only need to do is automatically deploy these images in a container
 
 [CI/CD Research](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Research.md#4-cicd)
 
-I think I am on oriënting because I know what I have to do ,and it works almost ,but it's not complete. After I made a container from my images and see the container I stand on beginning according to me. And when I have tests and a front-end ci/cd I am on beginning.
+I think I am on beginning because I know what I have to do ,and it works almost ,but it's not complete. After I made a container from my images and see the container I stand on beginning according to me. And when I have tests and a front-end ci/cd I am on proficient.
 
 ## Outcome 5. You recognize and take into account cultural differences when working with multi-site teams and are aware of ethical aspects in software development. (GP)
 
@@ -134,7 +134,7 @@ For this lo I think I am on proficient because I made some architectural designs
 
 For this LO I did some research about what a business process is. I answered some questions about this topic and for the visuals I made two activity diagrams(first one before the software applied and the second with) with draw io.
 
-I am standing on beginning because I know what a simple business process is and how it relates to my project. 
+I am standing on proficient because I know what a simple business process is and how it relates to my project. 
 
 [Business research](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Research.md#3-business-processes)
 
