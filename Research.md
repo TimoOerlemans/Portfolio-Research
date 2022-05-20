@@ -92,7 +92,7 @@ CI is about an automatic way of developing code. For example when i have changed
 
 ## 5. Cultural differences and ethics
 
-Can I work with people who are different then me.
+Can I work with people who are different from me?
 
 ### 5.1 What is culture?
 
@@ -108,9 +108,10 @@ I work in a sushi restaurant where almost only Chinese people work in the kitche
 
 ### 5.3 What is your culture?
 
-I am Dutch, so mostly we eat dutch food at home and on occasion we eat something else. We have some typical dutch food like syrup waffles, Poffertjes and a lot of cheese. Cheese is in my opinion disgusting I only eat it in tosti's and pizza's. <br>
+I am Dutch, so mostly we eat dutch food at home and on occasion we eat something else. We have some typical dutch food like syrup waffles, Poffertjes and a lot of cheese. <br>
 In the Netherlands we celebrate a few holidays like sinterklaas, carnaval(only the south of the netherlands) and halloween. <br>
-In our culture is sport a really big thing in my eyes. Everyone I know plays minimun of 1 sport mostly soccer or hockey. But cycling is the one thing we as dutch people do the most accourding to [this](https://discerningcyclist.com/which-city-has-the-most-cyclists-statistics/).
+In our culture is sport a really big thing in my eyes. Everyone I know plays minimun of 1 sport mostly soccer or hockey. But cycling is the one thing we as dutch people do the most accourding to [this](https://discerningcyclist.com/which-city-has-the-most-cyclists-statistics/).<br>
+But most importantly dutch people are very direct, opinionated, greedy and realistic. Most dutch people just say everything they think.
 
 ### 5.4 What did you do to improve the group communications with respect to cultural differences? 
 
@@ -151,6 +152,11 @@ These are the eight principles created by the ACM Committee on Professional Ethi
 7. Colleagues: Software engineers shall be fair to and supportive of their colleagues.
 
 8. Self: Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession."
+
+By the 7th principle they say something about fair and supportive to other colleagues. In my own words that means that everyone should respect every colleague. The fair part is that you tell to another colleague if something is wrong and not just say that everything is good. The second part says that you should be supportive and in our group we already do that by helping each other if something doesn't work with someone.
+We do that by say something where they can find what they are looking for or sit next to them and help them by explaining. 
+
+
 
 ### 5.8 How do you know that your ethical considerations match with those of other software engineers? 
 

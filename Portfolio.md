@@ -3,21 +3,21 @@
 Here I go through all the learning outcomes that I need to prove so I go to the next semester.
 
 ## Table of contents
-- [Outcome 1](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
-- [Outcome 2](#outcome-2-you-use-software-tooling-and-methodology-that-continuously-monitors-and-improve-the-software-quality-during-software-development-ip)
-- [Outcome 3](#outcome-3-you-can-implement-the-software-process-for-your-project-according-to-a-given-agile-software-development-method-gp)
-- [Outcome 4](#outcome-4-you-implement-a-semiautomated-software-release-process-that-matches-the-needs-of-the-project-context-ip)
-- [Outcome 5](#outcome-5-you-recognize-and-take-into-account-cultural-differences-when-working-with-multi-site-teams-and-are-aware-of-ethical-aspects-in-software-development-gp)
-- [Outcome 6](#outcome-6-you-translate-non-functional-requirements-to-extend-existing-architectural-designs-and-can-validate-them-using-multiple-types-of-test-techniques-gp)
-- [Outcome 7](#outcome-7-you-can-explain-simple-business-processes-and-relate-them-to-the-development-of-your-software-project-gp)
-- [Outcome 8](#outcome-8-you-act-in-a-professional-manner-during-software-development-and-learning-ip--gp)
+- [Outcome 1 You design and build user-friendly, full-stack web applications. (IP & GP)](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications-ip--gp)
+- [Outcome 2 You use software tooling and methodology that continuously monitors and improve the software quality during software development. (IP)](#outcome-2-you-use-software-tooling-and-methodology-that-continuously-monitors-and-improve-the-software-quality-during-software-development-ip)
+- [Outcome 3 You can implement the software process for your project according to a given agile software development method. (GP)](#outcome-3-you-can-implement-the-software-process-for-your-project-according-to-a-given-agile-software-development-method-gp)
+- [Outcome 4 You implement a (semi)automated software release process that matches the needs of the project context. (IP)](#outcome-4-you-implement-a-semiautomated-software-release-process-that-matches-the-needs-of-the-project-context-ip)
+- [Outcome 5 You recognize and take into account cultural differences when working with multi-site teams and are aware of ethical aspects in software development. (GP)](#outcome-5-you-recognize-and-take-into-account-cultural-differences-when-working-with-multi-site-teams-and-are-aware-of-ethical-aspects-in-software-development-gp)
+- [Outcome 6 You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques. (GP)](#outcome-6-you-translate-non-functional-requirements-to-extend-existing-architectural-designs-and-can-validate-them-using-multiple-types-of-test-techniques-gp)
+- [Outcome 7 You can explain simple business processes and relate them to the development of your software project. (GP)](#outcome-7-you-can-explain-simple-business-processes-and-relate-them-to-the-development-of-your-software-project-gp)
+- [Outcome 8 You act in a professional manner during software development and learning. (IP & GP)](#outcome-8-you-act-in-a-professional-manner-during-software-development-and-learning-ip--gp)
 - [STARRT](#STARR-T)
 
 ## Learning outcomes
 
 ## Outcome 1. You design and build user-friendly, full-stack web applications. (IP & GP)
 
-I think I am standing for this LO on oriënting because in my readme file you can see my research on frameworks. After these descicions I want to learn how to work with these frameworks so I have done a few tutorials. And now I apply them in my own project but i think not enough to be on the beginning. 
+I think I am standing for this LO on beginning because in my readme file you can see my research on frameworks. After these descicions I want to learn how to work with these frameworks so I have done a few tutorials. And now I apply them in my own project ,but I think not enough to be on the proficient. 
 
 #### design
 
@@ -66,19 +66,28 @@ For these tests I am going to use [Mockmvc](https://howtodoinjava.com/spring-boo
 
 ## Outcome 3. You can implement the software process for your project according to a given agile software development method. (GP)
 
-This lo is about agile working. I need to understand what agile working is and implement it into my groupproject.
+This lo is about agile working. I need to understand what agile working is and implement it into my groups project.
 
-In the groupsproject we use an agile way of working based on SCRUM. We do daily stand-ups, stand-downs and Peer review so everybody can say something about everyone. We also work in sprints of three weeks were we divide tasks to everyone in each sprint. 
+In the groups project we use an agile way of working based on SCRUM. We do daily stand-ups, stand-downs and Peer review so everybody can say something about everyone. We also work in sprints of three weeks were we divide tasks to everyone in each sprint. 
 
-We have tried different progams to use scrum ,but now we use only 2 programs: Github and Trello. In github are our projectboards and sprintbacklogs but in trello we have our burndownchart. 
+We have tried different programs to use scrum ,but now we use only 2 programs: Github and Trello. In github are our projectboards and sprintbacklogs but in trello we have our burndownchart. 
+
 
 According to the Scrum guide lines we use every member of the scrum team(Master, stakeholders and developers). Further I know every scrum event and what to do in each one of them(Planning, Daily scrum, review, Retrospective and Artifacts).
 
 I think I am on proficient because I know what agile working is ,and we are using it in our groupproject. I have asked another group how they use scrum and it looks a little bit like we use it but they use for the sprint-backlogs trello. 
+=======
+Scrum is not the only agile methodology there are many more like XP(Extreme programming). The people who developed this way of working described it as "a humanistic discipline of software development, based on principles of simplicity, communication, feedback, and courage". XP is really focussed on just coding. They do something controversial to what almost to none other agile method uses and that is "pair programming". This pair programming means that two people work on the same computer. 
+Before I read this method I didn't know we kinda just this already because if we sometimes can't figure it out, we'll work on a piece together. There are some things that match and others don't. Like they also make first the user story's and put an index on them to see how difficult they are. With scrum they do something called plan-poker and give every story points to estimate the amount of work. But with XP they give the points on 3 different risk indexes(Integrality, Vulnerability, difficulty). There is also one big difference and that is that it is tested first and then made for real. That is something I have never done before and in my eyes it is something I don't want to do.
+
+I think I am on proficient because I know what agile working is ,and we are using it in our groups project. I have asked another group how they use scrum and it looks a little like we use it but they use for the sprint-backlogs trello. This semester we have worked with scrum but maybe next semester I want to try to work with XP because it sounds like a good method to work with.
+
+[XP](https://nl.wikipedia.org/wiki/Extreme_programming#Geschiedenis)
+>>>>>>> Stashed changes
 
 ## Outcome 4. You implement a (semi)automated software release process that matches the needs of the project context. (IP)
 
-This lo is about automated software. An example is that my application runs every test when you push this has somethings to do with outcome 2(quality) because it makes sure that you know that all the test you made for this lo keep working. I am going to make pipelines for my ci/cd, one for the frontend and one for the backend. These pipelines make sure that my code is working as they suposed to. They build my project and after that they run all the test to see if they pass. I already have made a ci/cd for my backend but my docker is not working good enough so I need to fix that. After that I only need to make a ci/cd pipeline for my frontend to become on proficient. 
+This lo is about automated software. An example is that my application runs every test when you push this has something's to do with outcome 2(quality) because it makes sure that you know that all the test you made for this lo keep working. I am going to make pipelines for my ci/cd, one for the frontend and one for the backend. These pipelines make sure that my code is working as they suposed to. They build my project and after that they run all the test to see if they pass. I already have made a ci/cd for my backend but my docker is not working good enough so I need to fix that. After that I only need to make a ci/cd pipeline for my frontend to become on proficient. 
 
 ### 4.1 Automatic testing
 
@@ -110,6 +119,10 @@ I think I am on beginning because I know what I have to do ,and it works almost 
 
 Here I have to know how different type of culturals work(some culturals work different than other culturals).
 [Here](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/Research.md#5-cultural-differences-and-ethics) is my research on this LO.
+
+We have also done a personality to see what every one is. Anwar came out as a leader. If we work in with the group and somebody has to say something or there has to be made a decision he is the only one who stands-up and says something. That is just his personality just like the personality of Julian who is an entertainer. Julian is almost always the spontaneous one and tries to get everyone with him.
+Sometimes he is too distracted with that, that we have to make him focus on the project instead of other things. 
+
 
 ## Outcome 6. You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques. (GP)
 

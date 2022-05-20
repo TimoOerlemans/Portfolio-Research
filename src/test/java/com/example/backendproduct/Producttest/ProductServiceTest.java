@@ -30,7 +30,6 @@ public class ProductServiceTest {
     @Test
     void CreateProduct() {
         Product expected = new Product(1L, "Tonno", "Tonno, Tomato sauce", 12.00);
-
         service.saveProduct(expected);
 
         ArgumentCaptor<Product> dishArgumentCaptor =
@@ -40,8 +39,9 @@ public class ProductServiceTest {
 
         Product actual = dishArgumentCaptor.getValue();
 
-
         assertThat(expected).isEqualTo(actual);
+        System.out.println(expected.price);
+        System.out.println(expected.ingredients);
     }
 
     @Test
@@ -49,9 +49,9 @@ public class ProductServiceTest {
         Long id = 1L;
 
         given(repository.existsById(id)).willReturn(true);
-
         service.deleteProduct(id);
         verify(repository).deleteById(id);
+        System.out.println(repository.count());
     }
 
     @Test
