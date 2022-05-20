@@ -120,13 +120,15 @@ For this Lo I need to make architectural designs, make requirements and test wit
 
 In my group project I participated in making user stories. In my individual project I have made multiple user stories. I made the C4 model that you can find in the readme file.
 
-At the end of the project I want to have someone search for something up and see how long it takes before it works.
+To validate our designs I used another site to see if we have missed something we didn't think of when we were making our user stories. At that moment I didn't realise I used a research strategy from the dot framework. There are 5 research strategies and one of them is library "Library research is done to explore what is already done and what guidelines and theories exist that could help you further your design.". There is an available product analysis link where stands exactly what I have done. Look at different product that have the same things we want to make.
 
-For this lo I think I am on proficient because I made some architectural designs and requirements for the group- and individualproject. I know what type of tests I want to do so I can validate these.
+For this lo I think I am on proficient because I made some architectural designs and requirements for the group- and individualproject. I have validate them using a research strategy from dot framework.
 
 [User stories](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/README.md#user-stories)
 
 [C4 model](https://github.com/TimoOerlemans/Portfolio-Research/blob/main/README.md#c4-model)
+
+[Library](https://ictresearchmethods.nl/Category:Library)
 
 ## Outcome 7. You can explain simple business processes and relate them to the development of your software project. (GP)
 
@@ -140,11 +142,13 @@ I am standing on beginning because I know what a simple business process is and 
 
 For this lo I am going try to use pomodoro and also I am going to make a projectboard where all my features stand that I need to make. And for my professional manner I need to show that I am able to communicate good with my team and stakeholders.
 
+At the start of this semester I knew a bit of people who didn't work as much as other people because in my previous semester there were some people who did almost nothing. That semester I waited till the last few weeks to tell them that it needed to change. This semester I didn't waited that long and spoke to them that we needed a change. So we agreed to see each others work every day so we could see where everyone was working on and that every one was working.
+
 I have used pomodoro on the individual days but came to a conclussion that sometimes it doesn't work for me and sometimes it does. When I am in a good working mood and it all works then I just want to stay working and don't want to pause. But when I am very distracted I need it to stay foccused. 
 
-In the second sprint from the groupspoject we have used some feedback we recieved form the stakeholders. Like in the first sprint we didn't used the projectboard good and some other things but in the second sprint we did. After our second meeting with the stakeholders they asked if we did something with the feedback and we showed them this they were positive about this. 
+In the second sprint from the groupspoject we have used some feedback we recieved form the stakeholders. Like in the first sprint we didn't used the projectboard good and some other things but in the second sprint we did. After our second meeting with the stakeholders they asked if we did something with the feedback and we showed them this they were positive about this.
 
-I think I am on beginning because in the groupsproject we use a projectboard and have done a Peerpulse where we gave feedback to eachother what could be done better. 
+I think I am on Proficient because in the groupsproject we use a projectboard and have done a Peerpulse where we gave feedback to eachother what could be done better. I also show that I personally grew and changed how I reacted according to previous situations. 
 
 <img width="545" alt="image" src="https://user-images.githubusercontent.com/99472273/159669126-d0111f9f-40ab-4ac2-be85-cb7052e68485.png">
 
@@ -171,4 +175,4 @@ As an result we made an agreement that we were going to be more involved with ea
 For me the conversation went good and we made some promises that should keep this problem away. I think I did a good job in not immediatly being the one who is going for someones throat. I hope to see some better results in the next 3 weeks. The next time the one thing I would change about what I have done is that it needed to be said earlier. So they could change there behavior quicker and do some more work. 
 
 #### Transfer
-
+Next sprint I want to check some peoples work everyday so I can see that they are actually working. 
