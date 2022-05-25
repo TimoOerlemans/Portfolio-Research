@@ -2,7 +2,6 @@ package com.example.backendproduct.Producttest;
 import com.example.backendproduct.Product.ProductController;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.example.backendproduct.exception.ResourceNotFoundException;
 import com.example.backendproduct.Product.*;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -11,18 +10,15 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.http.MediaType;
 import org.springframework.test.web.servlet.MockMvc;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
-import static org.mockito.Mockito.when;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
 
 @WebMvcTest(ProductController.class)
-public class ProductIntergrationTest {
+public class ProductIntegrationTest {
+    /*
     @MockBean(classes = {ProductService.class})
     ProductService service;
 
@@ -48,5 +44,5 @@ public class ProductIntergrationTest {
             e.printStackTrace();
             throw new RuntimeException();
         }
-    }
+    }*/
 }

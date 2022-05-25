@@ -36,5 +36,13 @@ public class ProductService implements IProductService {
         productRepository.deleteById(id);
         System.out.println("Product " + id + " deleted!");
     }
+    public Product updateProduct(Product product) {
+        Product existingProduct =productRepository.findById(product.getId()).orElse(null);
+        existingProduct.setName(product.getName());
+        existingProduct.setPrice(product.getPrice());
+        existingProduct.setIngredients(product.getIngredients());
+
+        return productRepository.save(existingProduct);
+    }
 }
 
