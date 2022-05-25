@@ -1,6 +1,7 @@
 package com.example.backendproduct.Categorie;
 
 
+import com.example.backendproduct.Product.Product;
 import com.example.backendproduct.exception.ResourceNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -15,27 +16,26 @@ import java.util.HashMap;
 @RestController
 public class CategoryController {
     @Autowired
-    private CategoryRepository repository;
+    private CategoryService service;
 
     @GetMapping("/category")
-    public List<Category> getAllCategory(){
-        return repository.findAll();
+    public List<Category> getAllCategories(){
+        return service.GetAllCategories();
     }
 
-    @PostMapping("/category")
-    public Category saveProduct(@RequestBody Category category){
-        return repository.save(category);
+    @PostMapping("/add")
+    public Category saveCategory(@RequestBody Category category){
+        return service.saveCategory(category);
     }
 
-    @DeleteMapping("/category/{id}")
-    public ResponseEntity<Map<String, Boolean>> deleteCategory(@PathVariable long id){
-        Category category = repository.findById(id)
-                .orElseThrow(() -> new ResourceNotFoundException("Category does not exist with id" + id));
+    @DeleteMapping("/delete/{id}")
+    public void deleteCategory(@PathVariable long id){
+        service.deleteCategory(id);
+    }
 
-        repository.delete(category);
-        Map<String, Boolean> response = new HashMap<>();
-        response.put("Deleted", Boolean.TRUE);
-        return ResponseEntity.ok(response);
+    @PutMapping("/update")
+    public Category updateCategory(@RequestBody Category category) {
+        return service.updateCategory(category);
     }
 }
 
