@@ -2,6 +2,7 @@ package com.example.backendproduct.Product;
 
 import com.example.backendproduct.exception.ResourceNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -36,12 +37,19 @@ public class ProductService implements IProductService {
         System.out.println("Product " + id + " deleted!");
     }
     public Product updateProduct(Product product) {
-        Product existingProduct =productRepository.findById(product.getId()).orElse(null);
+        Product existingProduct =productRepository.findById(product.getId())
+                .orElseThrow(() -> new ResourceNotFoundException("Product does not exist"));
         existingProduct.setName(product.getName());
         existingProduct.setPrice(product.getPrice());
         existingProduct.setIngredients(product.getIngredients());
 
         return productRepository.save(existingProduct);
+    }
+
+    public ResponseEntity<Product> getProductById(Long id){
+        Product product = productRepository.findById(id)
+                .orElseThrow(() -> new ResourceNotFoundException("Product not found"));
+        return  ResponseEntity.ok(product);
     }
 }
 

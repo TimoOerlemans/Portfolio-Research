@@ -2,6 +2,7 @@ package com.example.backendproduct.Product;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -19,18 +20,23 @@ public class ProductController {
         return service.getAllProducts();
     }
 
-    @PostMapping("/add")
+    @PostMapping("/product")
     public Product saveProduct(@RequestBody Product product){
         return service.saveProduct(product);
     }
 
-    @DeleteMapping("/delete/{id}")
+    @DeleteMapping("/products/{id}")
     public void deleteProduct(@PathVariable long id){
         service.deleteProduct(id);
     }
 
-    @PutMapping("/update")
+    @PutMapping("/product/{id}")
     public Product updateProduct(@RequestBody Product product) {
         return service.updateProduct(product);
+    }
+
+    @GetMapping("/product/{id}")
+    public ResponseEntity<Product> getProductById(@PathVariable Long id){
+        return service.getProductById(id);
     }
 }

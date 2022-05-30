@@ -1,7 +1,5 @@
 package com.example.backendproduct.Categorie;
 
-
-import com.example.backendproduct.Product.Product;
 import com.example.backendproduct.exception.ResourceNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -23,17 +21,17 @@ public class CategoryController {
         return service.GetAllCategories();
     }
 
-    @PostMapping("/add")
+    @PostMapping("/Category")
     public Category saveCategory(@RequestBody Category category){
         return service.saveCategory(category);
     }
 
-    @DeleteMapping("/delete/{id}")
+    @DeleteMapping("/Category/{id}")
     public void deleteCategory(@PathVariable long id){
         service.deleteCategory(id);
     }
 
-    @PutMapping("/update")
+    @PutMapping("/Category")
     public Category updateCategory(@RequestBody Category category) {
         return service.updateCategory(category);
     }
