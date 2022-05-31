@@ -15,7 +15,7 @@ public class ProductController {
     @Autowired
     private ProductService service;
 
-    @GetMapping("/products")
+    @GetMapping("/product")
     public List<Product> getAllProducts(){
         return service.getAllProducts();
     }
@@ -25,14 +25,15 @@ public class ProductController {
         return service.saveProduct(product);
     }
 
-    @DeleteMapping("/products/{id}")
+    @DeleteMapping("/product/{id}")
     public void deleteProduct(@PathVariable long id){
         service.deleteProduct(id);
     }
 
     @PutMapping("/product/{id}")
-    public Product updateProduct(@RequestBody Product product) {
-        return service.updateProduct(product);
+    public ResponseEntity<Product> updateProduct(@PathVariable Long id, @RequestBody Product product) {
+        ResponseEntity<Product> updated  = service.updateProduct(id, product);
+        return updated;
     }
 
     @GetMapping("/product/{id}")

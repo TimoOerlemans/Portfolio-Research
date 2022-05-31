@@ -6,6 +6,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestBody;
 
 import java.util.List;
 
@@ -36,14 +37,16 @@ public class ProductService implements IProductService {
         productRepository.deleteById(id);
         System.out.println("Product " + id + " deleted!");
     }
-    public Product updateProduct(Product product) {
-        Product existingProduct =productRepository.findById(product.getId())
+    public ResponseEntity<Product> updateProduct(@PathVariable Long id, @RequestBody Product product) {
+        Product existingProduct =productRepository.findById(id)
                 .orElseThrow(() -> new ResourceNotFoundException("Product does not exist"));
+
         existingProduct.setName(product.getName());
         existingProduct.setPrice(product.getPrice());
         existingProduct.setIngredients(product.getIngredients());
 
-        return productRepository.save(existingProduct);
+        Product updated = productRepository.save(existingProduct);
+        return ResponseEntity.ok(updated);
     }
 
     public ResponseEntity<Product> getProductById(Long id){
