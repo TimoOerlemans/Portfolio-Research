@@ -1,6 +1,7 @@
 package com.example.backendproduct.Product;
 
 import lombok.*;
+import org.hibernate.annotations.TypeDef;
 
 import javax.persistence.*;
 

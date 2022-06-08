@@ -12,6 +12,7 @@ import org.springframework.http.MediaType;
 import org.springframework.test.web.servlet.MockMvc;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.mockito.Mockito.verify;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
@@ -20,31 +21,17 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @AutoConfigureMockMvc
 @WebMvcTest(ProductController.class)
 public class ProductIntegrationTest {
-    /*
-    @MockBean(classes = {ProductService.class})
-    ProductService service;
 
     @Autowired
     private MockMvc mockMvc;
 
-    @Test
-    void shouldCreateProduct() throws Exception {
-        Product product = new Product(1L, "Tonno", "Tomato sauce",12.00);
+    @MockBean
+    private ProductService service;
 
-        mockMvc.perform(post("/api/v1/add")
-                        .contentType(MediaType.APPLICATION_JSON)
-                        .content(convertObjectToJsonString(product)))
-                .andDo(print()).andExpect(status().isOk());
+    @Test
+    void shouldCreateProduct() throws Exception{
+
     }
 
-    private String convertObjectToJsonString(Product product) {
-        try {
-            ObjectMapper mapper = new ObjectMapper();
-            return mapper.writeValueAsString(product);
-        }
-        catch (JsonProcessingException e) {
-            e.printStackTrace();
-            throw new RuntimeException();
-        }
-    }*/
+
 }
